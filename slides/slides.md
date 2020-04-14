@@ -93,6 +93,32 @@ He who has ears to hear, let him hear.”
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+1. **Warning**
+  A. *Building* But Unable to Finish
+  B. *Fighting* But Unable to Win
+2. **Requirements**
+  A. Hate Own *Life*
+  B. Forsake All *Posessions*
+  C. Bear Own *Cross*
+3. **Identity** as Salt
+
+---
+<!-- .slide: data-background="white" -->
+# Do I seek Jesus for His **blessings** or His **Lordship**? 
+
+---
+## outline 2
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## outline 3
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
