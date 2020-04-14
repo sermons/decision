@@ -72,7 +72,8 @@ Or what king, going out<br>
 to encounter another king in war,
 
 will not sit down first and deliberate<br>
-whether he is able with ten thousand <br>
+whether he is able with ten thousand
+
 to meet him who comes against him <br>
 with twenty thousand?
 
@@ -107,7 +108,7 @@ He who has ears to hear, let him hear.”
 [Luke 14:25-35 (ESV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 1. **Warning**
   + A. *Building* But Unable to Finish
   + B. *Fighting* But Unable to Win
@@ -170,7 +171,8 @@ Or what **king**, going out<br>
 to encounter another king in **war**,
 
 will not **sit** down first and **deliberate**<br>
-whether he is able with **ten** thousand <br>
+whether he is able with **ten** thousand
+
 to meet him who comes against him <br>
 with **twenty** thousand?
 
