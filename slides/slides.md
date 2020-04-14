@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How have my **prayers** changed during **crisis**?
+# How have my **prayers** changed in times of **crisis**?
 
 ---
 <!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
@@ -32,32 +32,39 @@ Now great crowds accompanied him, <br>
 and he turned and said to them,
 
 [26](# "ref")
-“If anyone comes to me and does not hate<br>
-his own father and mother and wife and children<br>
-and brothers and sisters, yes, and even<br>
-his own life, he cannot be my disciple.
+“If anyone comes to me and does not
+hate his own father and mother and wife
+and children and brothers and sisters,
+yes, and even his own life,
 
+he cannot be my disciple.
+
+[Luke 14:25-35 (ESV) (p.1/6)](# "ref")
+
+******
 [27](# "ref")
 Whoever does not bear his own cross<br>
 and come after me cannot be my disciple.
 
-[Luke 14:25-35 (ESV) (p.1/4)](# "ref")
-
-******
 [28](# "ref")
 For which of you, desiring to build a tower,<br>
 does not first sit down and count the cost,<br>
 whether he has enough to complete it?
 
+[Luke 14:25-35 (ESV) (p.2/6)](# "ref")
+
+******
 [29](# "ref")
 Otherwise, when he has laid a foundation<br>
-and is not able to finish,<br>
+and is not able to finish,
+
 all who see it begin to mock him,
 [30](# "ref")
 saying,<br>
-‘This man began to build and was not able to finish.’
+‘This man began to build <br>
+and was not able to finish.’
 
-[Luke 14:25-35 (ESV) (p.1/4)](# "ref")
+[Luke 14:25-35 (ESV) (p.3/6)](# "ref")
 
 ******
 [31](# "ref")
@@ -65,31 +72,39 @@ Or what king, going out<br>
 to encounter another king in war,
 
 will not sit down first and deliberate<br>
-whether he is able with ten thousand to meet<br>
-him who comes against him with twenty thousand?
+whether he is able with ten thousand <br>
+to meet him who comes against him <br>
+with twenty thousand?
 
-[32](# "ref")
-And if not, while the other<br>
-is yet a great way off,<br>
-he sends a delegation and asks for terms of peace.
-
-[Luke 14:25-35 (ESV) (p.1/4)](# "ref")
+[Luke 14:25-35 (ESV) (p.4/6)](# "ref")
 
 ******
-[33](# "ref")
-So therefore, any one of you who does not<br>
-renounce all that he has cannot be my disciple.
+[32](# "ref")
+And if not, while the other<br>
+is yet a great way off,
 
+he sends a delegation <br>
+and asks for terms of peace.
+
+[33](# "ref")
+So therefore, any one of you <br>
+who does not renounce all that he has <br>
+cannot be my disciple.
+
+[Luke 14:25-35 (ESV) (p.5/6)](# "ref")
+
+******
 [34](# "ref")
 “Salt is good, but if salt has lost its taste,<br>
 how shall its saltiness be restored?<br>
+
 [35](# "ref")
 It is of no use either for the soil<br>
 or for the manure pile. It is thrown away.
 
 He who has ears to hear, let him hear.”
 
-[Luke 14:25-35 (ESV) (p.1/4)](# "ref")
+[Luke 14:25-35 (ESV) (p.6/6)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
