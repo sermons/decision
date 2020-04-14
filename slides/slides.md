@@ -32,9 +32,9 @@ Now great crowds accompanied him, <br>
 and he turned and said to them,
 
 [26](# "ref")
-“If anyone comes to me and does not
-hate his own father and mother and wife
-and children and brothers and sisters,
+“If anyone comes to me and does not <br>
+hate his own father and mother and wife <br>
+and children and brothers and sisters, <br>
 yes, and even his own life,
 
 he cannot be my disciple.
@@ -109,15 +109,19 @@ He who has ears to hear, let him hear.”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 1. **Warning**
-  A. *Building* But Unable to Finish
-  B. *Fighting* But Unable to Win
+  + A. *Building* But Unable to Finish
+  + B. *Fighting* But Unable to Win
 2. **Requirements**
-  A. Hate Own *Life*
-  B. Forsake All *Posessions*
-  C. Bear Own *Cross*
+  + A. Hate Own *Life*
+  + B. Forsake All *Posessions*
+  + C. Bear Own *Cross*
 3. **Identity** as Salt
 
 ---
+Now great crowds accompanied him, <br>
+and he turned and said to them
+
+[Luke 14:25 (ESV)](# "ref")
 
 >>>
 + Jn6:26 seek Jesus not bc signs but bc ate/filled
@@ -125,12 +129,31 @@ He who has ears to hear, let him hear.”
   + so Jesus uses parables/analogies
 
 ---
+For which of you, desiring to build a **tower**,<br>
+does not first **sit** down and **count** the cost,<br>
+whether he has enough to **complete** it?
+
+[Luke 14:28 (ESV)](# "ref")
 
 >>>
 + count: w/pebbles, reckon, determine, vote
   + cost: consume, devour
 + e.g., friend asks for help moving: how hard could it be? 
   + halfway through moving, want to give up
+
+---
+Otherwise, when he has laid a **foundation**<br>
+and is not able to finish,
+
+all who see it begin to **mock** him,
+[30](# "ref")
+saying,<br>
+‘This man **began** to build <br>
+and was not able to **finish**.’
+
+[Luke 14:29-30 (ESV)](# "ref")
+
+>>>
 + make fun: e.g., "castle" on MI
 + not that fear others' disdain, but
   + failure is public
@@ -143,6 +166,15 @@ He who has ears to hear, let him hear.”
   + because it can't be hidden
 
 ---
+Or what **king**, going out<br>
+to encounter another king in **war**,
+
+will not **sit** down first and **deliberate**<br>
+whether he is able with **ten** thousand <br>
+to meet him who comes against him <br>
+with **twenty** thousand?
+
+[Luke 14:31 (ESV)](# "ref")
 
 >>>
 + before rushing into battle, sit down and plan
@@ -152,7 +184,7 @@ He who has ears to hear, let him hear.”
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I seek Jesus for His **blessings** or His **Lordship**? 
+# Do I seek Jesus <br> for His **blessings** <br> or His **Lordship**? 
 
 ---
 ## outline 2
@@ -163,6 +195,18 @@ He who has ears to hear, let him hear.”
 + 1Jn3:11 love one another
   + 15 hate bro == murder
 
+---
+“If anyone **comes** to me and does not <br>
+**hate** his own father and mother and wife <br>
+and children and brothers and sisters,
+
+yes, and even his **own life**,
+
+he cannot be my **disciple**.
+
+[Luke 14:26 (ESV)](# "ref")
+
+>>>
 + usual appl is to have specific times/places when God takes centre stage
   in our thoughts + especially emotions (e.g., praise+worship)
   + in those times we don't think about family, are swept away by emotion for God
@@ -182,12 +226,21 @@ He who has ears to hear, let him hear.”
 + Lk16:13 God, money: no 2 masters: love one, hate other
 
 ---
+So therefore, any one of you <br>
+who does not **renounce** all that he **has** <br>
+cannot be my **disciple**.
+
+[Luke 14:33 (ESV)](# "ref")
 
 >>>
 + renounce: order/structure apart from: say goodbye
   + cf submit: order underneath
 
 ---
+Whoever does not bear his own **cross**<br>
+and come **after** me cannot be my **disciple**.
+
+[Luke 14:27 (ESV)](# "ref")
 
 >>>
 + Christ hadn't died yet, what would hearers have thought of
@@ -203,6 +256,14 @@ He who has ears to hear, let him hear.”
 ## outline 3
 
 ---
+“**Salt** is good, but if salt has lost its **taste**,<br>
+how shall its **saltiness** be restored?<br>
+
+[35](# "ref")
+It is of no **use** either for the soil<br>
+or for the manure pile. It is **thrown away**.
+
+[Luke 14:34-35 (ESV)](# "ref")
 
 >>>
 + salt has only one purpose, identifying trait
