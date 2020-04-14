@@ -110,37 +110,94 @@ He who has ears to hear, let him hear.”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 1. **Warning**
-  + A. *Building* But Unable to Finish
-  + B. *Fighting* But Unable to Win
+  + A. *Building* [(v28-30)](# "ref")
+  + B. *Fighting* [(v31-32)](# "ref")
 2. **Requirements**
-  + A. Hate Own *Life*
-  + B. Forsake All *Posessions*
-  + C. Bear Own *Cross*
-3. **Identity** as Salt
+  + A. Hate Own *Life* [(v26)](# "ref")
+  + B. Forsake All *Posessions* [(v33)](# "ref")
+  + C. Bear Own *Cross* [(v27)](# "ref")
+3. **Identity** as Salt [(v34-35)](# "ref")
 
 ---
-Now great crowds accompanied him, <br>
-and he turned and said to them
+Now **great crowds** accompanied him, <br>
+and he **turned** and said to them
 
 [Luke 14:25 (ESV)](# "ref")
 
 >>>
-+ Jn6:26 seek Jesus not bc signs but bc ate/filled
-+ Lk16: men of this age more shrewd with own
-  + so Jesus uses parables/analogies
++ **Most** of the world does not care to **draw near** to Christ
++ But in times of **need**, **many** will seek Him
++ 2 weeks ago, we remembered **Palm Sunday**, when crowds shouted:
+
+---
+**Hosanna**! Blessed is he who **comes** <br>
+in the name of the Lord, <br>
+even the **King** of Israel!
+
+[John 12:13 (ESV)](# "ref")
+
+>>>
++ And yet it was many of the **same** people who,
+  just a few **days** later, shouted
+
+---
+**Away** with him, away with him, **crucify** him!
+
+[John 19:15 (ESV)](# "ref")
+
+>>>
++ As we remembered last week on **Good Friday**
++ Their **joy** turned to **anger** because
+  Jesus did not fulfill their **expectations**
++ They wanted **healing** and rescue
++ But didn't **acknowledge** what they really 
+  needed **rescue** from
++ After the feeding of the **5,000**, the crowds
+  **found** Jesus across the sea and **sought** him out.
+  + And Jesus said to them:
+
+---
+Truly, truly, I say to you, <br>
+you are **seeking me**, <br>
+not because you saw **signs**, <br>
+but because you ate your **fill** of the loaves.
+
+[John 6:26 (ESV)](# "ref")
+
+>>>
++ What they **sought** wasn't even the spectacle of the **miracle**
+  + For a **sign** always points to something
++ and they weren't **interested** in following that
+  to its logical conclusion
++ They had an immediate **need**, and wanted it **met**
++ This is how **we** -- **I**, too often -- pray:
++ "Lord, I am in **need**, under **stress** --
+  + **fix** the problem, **satisfy** my need!"
++ It's **ironic**, bc we who are so **cavalier**
+  about seeking God's **blessings**
++ are very **shrewd** when it comes to earthly **commitments**:
 
 ---
 For which of you, desiring to build a **tower**,<br>
-does not first **sit** down and **count** the cost,<br>
+does not first **sit** down and **count** the **cost**,<br>
 whether he has enough to **complete** it?
 
 [Luke 14:28 (ESV)](# "ref")
 
 >>>
-+ count: w/pebbles, reckon, determine, vote
-  + cost: consume, devour
-+ e.g., friend asks for help moving: how hard could it be? 
-  + halfway through moving, want to give up
++ Building a tower is for **protection** or **safekeeping**
+  + It's a **large** + **expensive** project
++ Not sth you just **jump** into: **sit** down first
++ To **count**: as w/pebbles, to **reckon**, determine, vote
+  + How much is it going to **cost** -- to consume, devour?
++ Not just how strongly you **begin**, but
+  + how strongly you **finish**
++ e.g., friend asks all his friends for help **moving**: 
+  + sure, group of young **guys**: how **hard** could it be? 
+  + get there, see I'm the **only** one who came!
+  + learned: **ask** first before committing!
++ And no matter how **private** we may like our lives to be,
+  + there are always people **watching** us:
 
 ---
 Otherwise, when he has laid a **foundation**<br>
@@ -155,16 +212,29 @@ and was not able to **finish**.’
 [Luke 14:29-30 (ESV)](# "ref")
 
 >>>
-+ make fun: e.g., "castle" on MI
-+ not that fear others' disdain, but
-  + failure is public
-+ we may be afraid to fail, so
-  + build first in secret
-  + i.e., work on own holiness
-  + reveal only after complete
-+ but only tiny towers can be built in secret
-+ commitment to Christ: know what is involved
-  + because it can't be hidden
++ not that **fear** others' disdain, but
+  + our **success** / failure is **public**
++ if I make a **bold** decision for Christ
+  + but fail to **submit** my values, thinking, manner of speech, and decisions to Him
+  + then my **failure** is just as well-known as my **proclamation** was
++ Where I **grew up**, there was a house whose **owner**
+  + wanted to renovate it into a **castle**
+  + but only made it as far as a **tower** and part of a wall
+  + it stayed that way for **years**
+  + everyone **knew** about it: the failed castle
++ We may be **afraid** to fail publicly, so
+  + build first in **secret**
+  + **reveal** only after complete
++ i.e., work on own **holiness**
+  + let others **know** I'm a Christian **after**
+  + my life + heart are where I **want** them to be
++ But only **tiny** towers can be built in secret
++ If I want to **follow** Christ,
+  + I need to **sit** first and
+  + **consider** what is involved
+  + bc the **light** of Christ cannot be hidden
++ It's not only like **building** a project, but
+  + like going into **war**:
 
 ---
 Or what **king**, going out<br>
@@ -179,14 +249,29 @@ with **twenty** thousand?
 [Luke 14:31 (ESV)](# "ref")
 
 >>>
-+ before rushing into battle, sit down and plan
-  + what will it take to win?
-+ following christ means waging war against sin+self
-  + a war we cannot win on our own
++ Before **rushing** into battle, sit down and **plan**
+  + what will it take to **win**?
++ Following Christ means waging war against **sin + self**
+  + not sth we just naturally **fall** into
++ We must **consciously**, intentionally, daily
+  + **die** to sin + **deny** selfishness
++ It's a war we **cannot** win on our own
+  + we must make **peace** with God
++ accept that we need Christ's **death**
+  + to pay the **penalty** for our sin
++ **trust** Him enough to **obey** Him
+  + call Him as our **Lord**
++ During this time of **crisis**,
+  + it is good that we **draw near** to God
++ But as we come near to **seek** Him:
 
 ---
 <!-- .slide: data-background="white" -->
 # Do I seek Jesus <br> for His **blessings** <br> or His **Lordship**? 
+
+>>>
++ I am in desperate **need**, yes:
+  + do I simply 
 
 ---
 ## outline 2
