@@ -477,7 +477,7 @@ and come **after** me cannot be my **disciple**.
   + both **dead** and **alive**:
 
 ---
-always **carrying** in the body the **death** of Jesus, <br>
+Always **carrying** in the body the **death** of Jesus, <br>
 so that the **life** of Jesus <br>
 may also be **manifested** in our bodies. 
 
@@ -595,7 +595,8 @@ Simon Peter answered him, <br>
 
 You have the **words** of eternal life, <br>
 [69](# "ref")
-and we have **believed**, and have come to **know**, <br>
+and we have **believed**, <br>
+and have come to **know**, <br>
 that you are the **Holy One** of God.” 
 
 [John 6:67-69 (ESV)](# "ref")
