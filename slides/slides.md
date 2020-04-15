@@ -701,7 +701,7 @@ but the things that are unseen are **eternal**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What can I do what I don't feel **salty** or **bright**?
+# What can I do when I don't feel **salty** or **bright**?
 
 >>>
 + exude fragrance of Christ
