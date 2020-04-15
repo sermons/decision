@@ -636,6 +636,8 @@ or for the manure pile. It is **thrown away**.
   + you **have** been forgiven, and
   + you **have** the light of Christ in you --
   + **Remember** this!
++ Parallel passage in **Mt** 
+  + adds the analogy of **light**:
 
 ---
 You are the **light** of the world. <br>
@@ -650,11 +652,15 @@ and give **glory** to your Father who is in heaven.
 >>>
 + Not about **striving** to do more, more good works
 + But remembering **who I am** in Christ
-+ The **requirements** of discipleship are severe:
-  + it costs us **everything**
++ The **requirements** of discipleship are costly:
+  + it demands we yield **everything**
 + But we have been **chosen**, redeemed
-  + We are **salt** + light
++ We may not always **feel** salty or bright
+  + but it is the **gospel** within us
++ that gives us the **aroma** of Christ
+  + and the **light** of God's glory
 + **Who** then can be **saved**?
++ next ch15: **"sinners"** came to Jesus
 
 ---
 Therefore I tell you, 
@@ -666,9 +672,9 @@ But he who is **forgiven** little, **loves** little.
 [Luke 7:47 (ESV)](# "ref")
 
 >>>
-+ next ch15: "sinners", lost sheep, lost coin, lost son:
-  + these are the ones who can be saved:
-  + those who know they need saving
++ lost **sheep**, lost **coin**, lost **son**:
++ these are the ones who can be **saved**:
+  + those who know they **need** saving
 
 ---
 So we do not **lose heart**. 
@@ -695,8 +701,10 @@ but the things that are unseen are **eternal**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# What can I do what I don't feel **salty** or **bright**?
 
+>>>
++ exude fragrance of Christ
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
