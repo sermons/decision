@@ -334,7 +334,8 @@ that you have heard from the beginning, <br>
 that we should **love one another**
 
 [15](# "ref")
-Everyone who **hates** his brother is a **murderer**, <br>
+Everyone who **hates** his brother <br>
+is a **murderer**, <br>
 and you know that no murderer <br>
 has **eternal life** abiding in him
 
@@ -414,8 +415,9 @@ and come **after** me cannot be my **disciple**.
 [Luke 14:27 (ESV)](# "ref")
 
 >>>
-+ hate own life != "FML": unhappy with hand that's been dealt to me
-  + and != deliberately get COVID: harms others!
++ hate own life != "my life **sucks**":
+  + i.e., **unhappy** with hand that's been dealt to me
+  + and != deliberately get COVID: **harms** others!
 + John 12:25: lose/find life
 + 2Cor4:10 carry in body death of Jesus
   + 7-9 jars of clay, ... struck down but not destroyed
