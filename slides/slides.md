@@ -113,7 +113,7 @@ He who has ears to hear, let him hear.”
   + A. *Building* [(v28-30)](# "ref")
   + B. *Fighting* [(v31-32)](# "ref")
 2. **Requirements**
-  + A. Hate Own *Life* [(v26)](# "ref")
+  + A. Hate Own *Family* [(v26)](# "ref")
   + B. Forsake All *Posessions* [(v33)](# "ref")
   + C. Bear Own *Cross* [(v27)](# "ref")
 3. **Identity** as Salt [(v34-35)](# "ref")
@@ -270,17 +270,23 @@ with **twenty** thousand?
 # Do I seek Jesus <br> for His **blessings** <br> or His **Lordship**? 
 
 >>>
-+ I am in desperate **need**, yes:
-  + do I simply 
++ When I am in desperate **need**:
+  + how do I **approach** Jesus?
++ do I **believe** He is **able** to rescue, and
+  + am I **willing** to be His **disciple**?
 
 ---
 ## outline 2
 
----
-
 >>>
-+ 1Jn3:11 love one another
-  + 15 hate bro == murder
++ if we **desire** to be Christ's **disciples**,
++ what does He **ask** of us?
+  + what are the **prerequisites**?
++ 3 ways of describing the 1 **commitment** that is needed:
+  + hate earthly **family**
+  + forsake all we **possess**
+  + bear our own **cross**
++ Sounds pretty **scary**!
 
 ---
 “If anyone **comes** to me and does not <br>
@@ -294,23 +300,100 @@ he cannot be my **disciple**.
 [Luke 14:26 (ESV)](# "ref")
 
 >>>
-+ usual appl is to have specific times/places when God takes centre stage
-  in our thoughts + especially emotions (e.g., praise+worship)
-  + in those times we don't think about family, are swept away by emotion for God
-+ but not feasible to live like that all the time
-  + so it doesn't impact/change our daily life
-+ Bible is cohesive whole: love one another, but hate family/self?
-  + God's love is greater than our family ties
-+ don't seek Jesus as a means of seeking blessing for our families
-  + serve family as a way of serving God
-  + know God's love so we know what it means to truly love one another
-+ e.g., "if you really loved me, you'd do .... for me"
++ **hate** is a pretty strong word!
+  + deep **emotion** of opposition, to despise
++ For those of us at **home**, we might say:
+  + "I've been stuck at home w/my family for a **month**;
+  + **hate** my family? Check and done!
++ Parallel passage in Mt10 highlights the
+  + **comparison** of strength of love:
 
-+ hate own life != "FML": unhappy with hand that's been dealt to me
-  + and != deliberately get COVID: harms others!
-+ Mt10:37-39, John 12:25: lose/find life
+---
+Whoever loves **father** or **mother** <br>
+**more** than me is not worthy of me, 
 
-+ Lk16:13 God, money: no 2 masters: love one, hate other
+and whoever loves **son** or **daughter** <br>
+**more** than me is not worthy of me.
+
+[Matthew 10:37 (ESV)](# "ref")
+
+>>>
++ Our usual appl is to have specific **times**/places
+  + when God takes **centre stage** in our 
+  + thoughts + especially **emotions** (e.g., praise+worship)
++ in those times we don't **think** about family,
+  + are **swept away** by emotion for God
++ but not **feasible** to live like that all the time
+  + so it doesn't **impact**/change our daily life
++ Bible is **cohesive** whole:
+  + Same God also commands us in 1Jn3:
+
+---
+For this is the **message** <br>
+that you have heard from the beginning, <br>
+that we should **love one another**
+
+[15](# "ref")
+Everyone who **hates** his brother is a **murderer**, <br>
+and you know that no murderer <br>
+has **eternal life** abiding in him
+
+[1 John 3:11,15 (ESV)](# "ref")
+
+>>>
++ (And yes, it is the same word for **hate**)
++ So we must **hate** father / mother / bro / sis
+  + but **love** our brother?
++ It is God who gives us our **earthly** family
+  + and in Christ we have a **new** family of God
++ with eternal **ties** that are even stronger
+  + than the ties of our **earthly** families,
+  + which merely last but a **lifetime**
++ We very much have **responsibilities**, each
+  + to those in our own **household**:
+
+---
+If a **widow** has **children** or grandchildren, <br>
+let them first learn <br>
+to show **godliness** to their **own household** <br>
+and to make some **return** to their parents, <br>
+for this is **pleasing** in the sight of God.
+
+[1 Timothy 5:4 (ESV)](# "ref")
+
+>>>
++ this is also so as not to **burden** the church
+  + so it can focus on **caring** for those
+  + who have **none** able to care for them
++ But the **commitment** of discipleship to Christ
+  + means our singular **intent**
+  + is to **follow** Him
++ to subordinate every **relationship** under
+  + **obedience** to His commands
++ Later in **Luke16**, Jesus addresses those who
+  + treat **money** as ther master:
+
+---
+No servant can serve **two masters**,
+
+for either he will **hate** the one <br>
+and **love** the other, <br>
+or he will be **devoted** to the one <br>
+and **despise** the other. 
+
+You cannot serve **God** and **money**.
+
+[Luke 16:13 (ESV)](# "ref")
+
+>>>
++ **Family** obligations + the desire for a **peaceful** home
+  + can be just as powerfully **alluring** a master
++ Don't seek Jesus as a **means** of 
+  + seeking **blessing** for our families
++ Rather, our **goal** is to love God + follow Him, and
+  + we serve **family** as a way of serving God
++ And **money** is also an insiduous master!
+  + v33 addresses our **possessions**:
 
 ---
 So therefore, any one of you <br>
@@ -320,8 +403,9 @@ cannot be my **disciple**.
 [Luke 14:33 (ESV)](# "ref")
 
 >>>
-+ renounce: order/structure apart from: say goodbye
-  + cf submit: order underneath
++ renounce: **order**/structure **apart** from
+  + say **goodbye**
+  + cf "submit": order **underneath**
 
 ---
 Whoever does not bear his own **cross**<br>
@@ -330,7 +414,9 @@ and come **after** me cannot be my **disciple**.
 [Luke 14:27 (ESV)](# "ref")
 
 >>>
-+ Christ hadn't died yet, what would hearers have thought of
++ hate own life != "FML": unhappy with hand that's been dealt to me
+  + and != deliberately get COVID: harms others!
++ John 12:25: lose/find life
 + 2Cor4:10 carry in body death of Jesus
   + 7-9 jars of clay, ... struck down but not destroyed
   + 16 outer self decaying / inner self renewed
