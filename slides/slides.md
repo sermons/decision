@@ -2,16 +2,6 @@
 # Decision Point
 ## Luke 14:25-35
 
->>>
-+ under times of **stress**, how do I **cope**?
-+ w/o regular modes of social **support**
-  + w/o regular modes of **work**/school
-+ see how our **healthcare** systems + gov
-  + are inadequately **equipped**
-+ seen crisis bring out the **worst** in people
-  + protecting **self** at expense of **others**
-  + **blame** + fear
-
 ---
 <!-- .slide: data-background="white" -->
 # How have my **prayers** changed in times of **crisis**?
@@ -124,7 +114,7 @@ He who has ears to hear, let him hear.”
   + B. *Fighting* [(v31-32)](# "ref")
 2. **Requirements**
   + A. Hate Own *Family* [(v26)](# "ref")
-  + B. Forsake All *Posessions* [(v33)](# "ref")
+  + B. Forsake All *Possessions* [(v33)](# "ref")
   + C. Bear Own *Cross* [(v27)](# "ref")
 3. **Identity** as Salt [(v34-35)](# "ref")
 
@@ -414,6 +404,8 @@ cannot be my **disciple**.
 [Luke 14:33 (ESV)](# "ref")
 
 >>>
++ **all he has**: not just **money** but possessions,
+  + that which is **under** me, in my control
 + renounce: **order**/structure **apart** from
   + say **goodbye**
   + cf "submit": order **underneath**
@@ -510,8 +502,116 @@ may be manifested in our mortal flesh
 <!-- .slide: data-background="white" -->
 # What does it mean to **bear** my own **cross**?
 
+>>>
++ To **love** God with all our **heart** / life / strength
++ means finding **stronger** bonds in the HS
+  + than our **earthly** family ties
++ It means saying **"goodbye"** to all we have
+  + separating our **possessions** 
+  + from who we are as a **person** in Christ
++ It means **remembering** every day
+  + that through Christ we are **dead** to sin
+  + we no longer live for **ourselves**
+  + but for **Christ** who gives us new life
+
 ---
 ## outline 3
+
+>>>
++ at this point, some **listeners** may say,
++ "You ask **too much**! I've already
+  + **volunteered** more than my fair share for God,
+  + **sacrificed** for His Name.
++ "I have very real, immediate **stresses**
+  + I need to **deal** with right now.
++ "Now You want me to **yield** to God my 
+  + **family**, **possessions**, and own **life**?
+  + That's all I have **left**!"
++ If you're **asking** that, you're **not** alone!
++ Jesus, after asking the **rich young man**
+  + to **sell** all he had 
+  + and **give** to the poor,
++ Jesus himself attested:
+
+---
+It is easier for a **camel** <br>
+to go through the eye of a **needle**
+
+than for a **rich** person <br>
+to enter the **kingdom of God**.
+
+[26](# "ref")
+And they were exceedingly **astonished**, <br>
+and said to him, “Then **who** can be saved?” 
+
+[Mark 10:25-26 (ESV)](# "ref")
+
+>>>
++ Not only for **rich** people,
+  + the **demand** of discipleship is so **high**
++ "If that's what it **takes** to be Your disciple,
+  + then **who** could possibly **qualify**?"
++ And what was Jesus' **reply**?
+
+---
+Jesus looked at them and said, 
+
+“With **man** it is impossible, <br>
+but not with **God**. 
+
+For all things are **possible** with God.”
+
+[Mark 10:27 (ESV)](# "ref")
+
+>>>
++ This does **not** mean God will do anything we **want**
++ but the **ability** to **follow** Him as His disciple,
+  + the **repentant**, changed heart,
+  + the living **faith** to obey Him in 
+  + every **aspect** of life --
++ all these are **gifts** given as **God** enables
+
+---
+And he said, “This is why I told you <br>
+that no one can **come** to me <br>
+unless it is **granted** him by the **Father**.”
+
+[John 6:65 (ESV)](# "ref")
+
+>>>
++ Jesus said this after another **call** to commitment
++ and many followers **left** Him after this:
+  + "It's **too hard** to do,
+  + Who is able even to **listen** to it?"
++ But the twelve **disciples** stayed, why?
+
+---
+So Jesus said to the twelve, <br>
+“Do **you** want to go away as well?” 
+
+[68](# "ref")
+Simon Peter answered him, <br>
+“Lord, to **whom** shall we go? 
+
+You have the **words** of eternal life, <br>
+[69](# "ref")
+and we have **believed**, and have come to **know**, <br>
+that you are the **Holy One** of God.” 
+
+[John 6:67-69 (ESV)](# "ref")
+
+>>>
++ They were **chosen** by Christ
+  + to receive the **faith**
+  + and **experiential** knowledge
++ that Jesus is **Saviour** sent by God:
+  + there's **nowhere** else to go, and
+  + nowhere else they'd **rather** be
++ This is our **identity** in Christ!
+  + the **church** -- εκκλησία -- 
+  + those **chosen** by God's grace
++ We can no more **return** to a life of sin
+  + than **salt** can become **unsalty**:
 
 ---
 “**Salt** is good, but if salt has lost its **taste**,<br>
@@ -524,16 +624,40 @@ or for the manure pile. It is **thrown away**.
 [Luke 14:34-35 (ESV)](# "ref")
 
 >>>
-+ salt has only one purpose, identifying trait
-+ Mt5:13-16 you are salt of earth, light of world
-  + let light shine
-+ Mk9:50 cut off hand/eye, salted w/fire, live @peace w/eo
++ This isn't saying that if you **claim** to be a Chr
+  + but aren't living a **holy** life
+  + that you'll be **thrown out** of heaven!
++ How does **salt** become **unsalty**?
+  + by very **definition**, sodium chloride is salty
++ Jesus is saying to those He's **chosen**:
+  + this is **who you are**: you **are** salty
++ you **have** died to sin already,
+  + you **have** been forgiven, and
+  + you **have** the light of Christ in you --
+  + **Remember** this!
+
+---
+You are the **light** of the world. <br>
+A city set on a hill cannot be **hidden**. 
+
+Let your light **shine** before others, <br>
+so that they may see your **good works** <br>
+and give **glory** to your Father who is in heaven.
+
+[Matthew 5:14,16 (ESV)](# "ref")
+
+>>>
++ Not about **striving** to do more, more good works
++ But remembering **who I am** in Christ
++ The **requirements** of discipleship are severe:
+  + it costs us **everything**
++ But we have been **chosen**, redeemed
+  + We are **salt** + light
++ **Who** then can be **saved**?
 
 ---
 
 >>>
-+ high cost: who then can be saved? Lk18:26-30
-  + not impossible with God
 + Lk15: "sinners", lost sheep, lost coin, lost son:
   + these are the ones who can be saved:
   + those who know they need saving
