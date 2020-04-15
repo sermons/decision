@@ -2,6 +2,16 @@
 # Decision Point
 ## Luke 14:25-35
 
+>>>
++ under times of **stress**, how do I **cope**?
++ w/o regular modes of social **support**
+  + w/o regular modes of **work**/school
++ see how our **healthcare** systems + gov
+  + are inadequately **equipped**
++ seen crisis bring out the **worst** in people
+  + protecting **self** at expense of **others**
+  + **blame** + fear
+
 ---
 <!-- .slide: data-background="white" -->
 # How have my **prayers** changed in times of **crisis**?
@@ -407,6 +417,49 @@ cannot be my **disciple**.
 + renounce: **order**/structure **apart** from
   + say **goodbye**
   + cf "submit": order **underneath**
++ money is **necessary** for life, but
+  + does not **constitute** our life
++ **Craving** for money/possessions reflects **fear**
+  + that we don't have **enough**
+  + that we can't **protect** selves / loved ones
++ Remember our Heavenly **Father** 
+  + provides for us **abundantly**:
+
+---
+**Fear not**, little flock, <br>
+for it is your Father's good **pleasure** <br>
+to give you the **kingdom**. 
+
+[33](# "ref")
+**Sell** your possessions, and **give** to the needy.
+
+Provide yourselves with ... <br>
+a **treasure** in the heavens that does not **fail**
+
+[Luke 12:32-33 (ESV)](# "ref")
+
+>>>
++ not that **owning** things is **evil**
+  + but **separate** the person from the possessions
++ **Use** the material blessings God gave us
+  + to show **mercy** on those in need --
++ it's the best long-term **investment** strategy!
++ Saying "goodbye" to **possessions** + earthly **family**
+  + is all a part of renouncing **ourselves**:
+
+---
+If anyone comes to me and does not **hate** ... <br>
+even his **own life**, he cannot be my disciple.<br>
+
+[Luke 14:26 (ESV)](# "ref")
+
+>>>
++ **hating** own life != feeling "my life **sucks**":
+  + i.e., **unhappy** with hand that's been dealt to me
++ and != **despising** the gift of life God gave us
+  + or **deliberately** getting COVID:
+  + that **harms** others!
++ in v27, Jesus uses the image of the **cross**:
 
 ---
 Whoever does not bear his own **cross**<br>
@@ -415,17 +468,47 @@ and come **after** me cannot be my **disciple**.
 [Luke 14:27 (ESV)](# "ref")
 
 >>>
-+ hate own life != "my life **sucks**":
-  + i.e., **unhappy** with hand that's been dealt to me
-  + and != deliberately get COVID: **harms** others!
-+ John 12:25: lose/find life
-+ 2Cor4:10 carry in body death of Jesus
-  + 7-9 jars of clay, ... struck down but not destroyed
-  + 16 outer self decaying / inner self renewed
++ Cross an instrument of **torture** + death
+  + to **bear** own cross: 
+  + to be a **dead man** walking
++ It's not just about enduring **suffering**
+  + but a **reminder** of death:
++ Sin shall have no **mastery** over me, bc
+  + I've **died** to it, done and gone!
+  + I don't **desire** to live in sin any longer
++ As we're **carrying** that reminder of death daily,
+  + remember where **Jesus** is:
+  + in **front** of us, clearing the way!
++ He's gone **before** in bearing the **suffering** of sin
+  + and He's already **triumphed** over sin + grave
++ So, as 2Cor says, in this world we are always
+  + both **dead** and **alive**:
+
+---
+always **carrying** in the body the **death** of Jesus, <br>
+so that the **life** of Jesus <br>
+may also be **manifested** in our bodies. 
+
+[11](# "ref")
+For we who live are always being <br>
+given over to **death** for Jesus' sake, 
+
+so that the **life** of Jesus also <br>
+may be manifested in our mortal flesh
+
+[2 Corinthians 4:10-11 (ESV)](# "ref")
+
+>>>
++ Never **tire** of the msg of the **cross**
++ reminds us that in our **struggle** w/sin
++ Christ has already **died** for us
+  + that we would be **dead** to sin
++ And He is **risen**, risen indeed
+  + that we may manifest **life** that overcomes
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# What does it mean to **bear** my own **cross**?
 
 ---
 ## outline 3
@@ -460,10 +543,14 @@ or for the manure pile. It is **thrown away**.
 <!-- .slide: data-background="white" -->
 # Q3
 
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
 
 >>>
++ 7-9 jars of clay, ... struck down but not destroyed
++ 16 outer self decaying / inner self renewed
+
 + unpopular to be a prophet in times of national distress: Jeremiah to exile
 
 + Lk9:57-62 put hand to plow and look back
