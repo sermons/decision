@@ -656,12 +656,41 @@ and give **glory** to your Father who is in heaven.
 + **Who** then can be **saved**?
 
 ---
+Therefore I tell you, 
+her sins, which are **many**, are forgiven -- 
+for she loved **much**.
+
+But he who is **forgiven** little, **loves** little.
+
+[Luke 7:47 (ESV)](# "ref")
 
 >>>
-+ Lk15: "sinners", lost sheep, lost coin, lost son:
++ next ch15: "sinners", lost sheep, lost coin, lost son:
   + these are the ones who can be saved:
   + those who know they need saving
-+ he who has been forgiven much, loves much
+
+---
+So we do not **lose heart**. 
+
+Though our **outer self** is wasting away, <br>
+our **inner self** is being **renewed** day by day. 
+
+[2 Corinthians 4:16-18 (ESV) (p.1/2)](# "ref")
+
+---
+[17](# "ref")
+For this light **momentary** affliction <br>
+is preparing for us an eternal **weight of glory** <br>
+beyond all comparison, 
+
+[18](# "ref")
+as we look not to the things that are **seen** <br>
+but to the things that are **unseen**. 
+
+For the things that are seen are **transient**, <br>
+but the things that are unseen are **eternal**.
+
+[2 Corinthians 4:16-18 (ESV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -672,9 +701,6 @@ and give **glory** to your Father who is in heaven.
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
 
 >>>
-+ 7-9 jars of clay, ... struck down but not destroyed
-+ 16 outer self decaying / inner self renewed
-
 + unpopular to be a prophet in times of national distress: Jeremiah to exile
 
 + Lk9:57-62 put hand to plow and look back
