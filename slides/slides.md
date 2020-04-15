@@ -580,13 +580,13 @@ unless it is **granted** him by the **Father**.”
 
 >>>
 + Jesus said this after another **call** to commitment
-+ and many followers **left** Him after this:
++ and many of His **followers** turned away:
   + "It's **too hard** to do,
   + Who is able even to **listen** to it?"
-+ But the twelve **disciples** stayed, why?
++ so many **left** Jesus at that point, that Jesus
+  + even asked the twelve **disciples**:
 
 ---
-So Jesus said to the twelve, <br>
 “Do **you** want to go away as well?” 
 
 [68](# "ref")
