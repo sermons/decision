@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How have my **prayers** changed in times of **crisis**?
+# How do I **follow** Christ in times of **crisis**?
 
 ---
 <!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
@@ -190,12 +190,14 @@ whether he has enough to **complete** it?
 + Not sth you just **jump** into: **sit** down first
 + To **count**: as w/pebbles, to **reckon**, determine, vote
   + How much is it going to **cost** -- to consume, devour?
-+ Not just how strongly you **begin**, but
-  + how strongly you **finish**
 + e.g., friend asks all his friends for help **moving**: 
   + sure, group of young **guys**: how **hard** could it be? 
   + get there, see I'm the **only** one who came!
   + learned: **ask** first before committing!
++ if I know how to **plan** before committing to **projects**
+  + why should I think committing to **Christ** is any different?
++ Not just how strongly you **begin**, but
+  + how strongly you **finish** 
 + And no matter how **private** we may like our lives to be,
   + there are always people **watching** us:
 
@@ -222,19 +224,14 @@ and was not able to **finish**.’
   + but only made it as far as a **tower** and part of a wall
   + it stayed that way for **years**
   + everyone **knew** about it: the failed castle
-+ We may be **afraid** to fail publicly, so
-  + build first in **secret**
-  + **reveal** only after complete
-+ i.e., work on own **holiness**
-  + let others **know** I'm a Christian **after**
-  + my life + heart are where I **want** them to be
++ We, working on our own **holiness**,
+  + may be **afraid** to fail publicly, so
+  + build first in **secret**, then after
++ my life + heart are where I **want** them to be,
+  + **reveal** the tower after it's complete: tada! 
 + But only **tiny** towers can be built in secret
-+ If I want to **follow** Christ,
-  + I need to **sit** first and
-  + **consider** what is involved
-  + bc the **light** of Christ cannot be hidden
-+ It's not only like **building** a project, but
-  + like going into **war**:
+  + and the **light** of Christ cannot be hidden
++ The 2nd analogy is going into **war**:
 
 ---
 Or what **king**, going out<br>
@@ -257,8 +254,9 @@ with **twenty** thousand?
   + **die** to sin + **deny** selfishness
 + It's a war we **cannot** win on our own
   + we must make **peace** with God
-+ accept that we need Christ's **death**
++ acknowledge that we need Christ's **death**
   + to pay the **penalty** for our sin
+  + hence give us the **victory** over it
 + **trust** Him enough to **obey** Him
   + call Him as our **Lord**
 + During this time of **crisis**,
@@ -271,9 +269,12 @@ with **twenty** thousand?
 
 >>>
 + When I am in desperate **need**:
-  + how do I **approach** Jesus?
+  + what am I **expecting**
+  + as I **approach** Jesus?
 + do I **believe** He is **able** to rescue, and
   + am I **willing** to be His **disciple**?
+______
+**[PAUSE + CUT]**
 
 ---
 ## outline 2
@@ -282,6 +283,8 @@ with **twenty** thousand?
 + if we **desire** to be Christ's **disciples**,
 + what does He **ask** of us?
   + what are the **prerequisites**?
++ 3x Jesus says, "if you **don't** do this,
+  + you **cannot** be My disciple":
 + 3 ways of describing the 1 **commitment** that is needed:
   + hate earthly **family**
   + forsake all we **possess**
@@ -289,7 +292,7 @@ with **twenty** thousand?
 + Sounds pretty **scary**!
 
 ---
-“If anyone **comes** to me and does not <br>
+If anyone **comes** to me and does not <br>
 **hate** his own father and mother and wife <br>
 and children and brothers and sisters,
 
@@ -303,8 +306,8 @@ he cannot be my **disciple**.
 + **hate** is a pretty strong word!
   + deep **emotion** of opposition, to despise
 + For those of us at **home**, we might say:
-  + "I've been stuck at home w/my family for a **month**;
-  + **hate** my family? Check and done!
+  + "I've been stuck in **isolation** w/my family for a **month**;
+  + **hate** my family? Check and done!"
 + Parallel passage in Mt10 highlights the
   + **comparison** of strength of love:
 
@@ -324,9 +327,20 @@ and whoever loves **son** or **daughter** <br>
 + in those times we don't **think** about family,
   + are **swept away** by emotion for God
 + but not **feasible** to live like that all the time
-  + so it doesn't **impact**/change our daily life
+  + so it doesn't **impact** / change our daily life
++ Sometimes, what I **love** more than God
+  + is the **people** in my family:
++ e.g., **mornings** are crazy,
+  + family has **urgent** and visible needs
+  + I **fail** to spend **undistracted** time listening to God
++ Sometimes, what I **love** more than God
+  + is the **ideal** of family:
++ **happy** + content, tidy home, productive + admired
+  + when it **doesn't** look like that,
+  + I can't **stand** it: frustrated, bitter, angry
++ How do I love God **and** love my family? 
 + Bible is **cohesive** whole:
-  + Same God also commands us in 1Jn3:
+  + It's the **same** God who commands us in 1Jn3:
 
 ---
 For this is the **message** <br>
@@ -345,11 +359,11 @@ has **eternal life** abiding in him
 + (And yes, it is the same word for **hate**)
 + So we must **hate** father / mother / bro / sis
   + but **love** our brother?
-+ It is God who gives us our **earthly** family
-  + and in Christ we have a **new** family of God
++ Earthly family **comes** from God, and
+  + in Christ have a **new** family of God:
 + with eternal **ties** that are even stronger
   + than the ties of our **earthly** families,
-  + which merely last but a **lifetime**
+  + which "merely" last but a **lifetime**
 + We very much have **responsibilities**, each
   + to those in our own **household**:
 
@@ -371,7 +385,7 @@ for this is **pleasing** in the sight of God.
   + is to **follow** Him
 + to subordinate every **relationship** under
   + **obedience** to His commands
-+ Later in **Luke16**, Jesus addresses those who
++ Later in **Luke**, Jesus addresses those who
   + treat **money** as ther master:
 
 ---
@@ -441,7 +455,7 @@ a **treasure** in the heavens that does not **fail**
 
 ---
 If anyone comes to me and does not **hate** ... <br>
-even his **own life**, he cannot be my disciple.<br>
+even his **own life**, he cannot be my disciple.
 
 [Luke 14:26 (ESV)](# "ref")
 
@@ -464,15 +478,14 @@ and come **after** me cannot be my **disciple**.
   + to **bear** own cross: 
   + to be a **dead man** walking
 + It's not just about enduring **suffering**
-  + but a **reminder** of death:
-+ Sin shall have no **mastery** over me, bc
-  + I've **died** to it, done and gone!
-  + I don't **desire** to live in sin any longer
-+ As we're **carrying** that reminder of death daily,
-  + remember where **Jesus** is:
-  + in **front** of us, clearing the way!
+  + but a daily **reminder** of death:
++ I've **died** to sin + self, so
+  + sin shall have no **mastery** over me
+  + I don't **desire** to live in it any longer!
++ And Jesus is not **behind** us
+  + driving us as a **slave master**:
 + He's gone **before** in bearing the **suffering** of sin
-  + and He's already **triumphed** over sin + grave
+  + already **triumphed** over sin + grave
 + So, as 2Cor says, in this world we are always
   + both **dead** and **alive**:
 
@@ -494,25 +507,27 @@ may be manifested in our mortal flesh
 + Never **tire** of the msg of the **cross**
 + reminds us that in our **struggle** w/sin
 + Christ has already **died** for us
-  + that we would be **dead** to sin
+  + to make us **dead** to sin
 + And He is **risen**, risen indeed
   + that we may manifest **life** that overcomes
 
 ---
 <!-- .slide: data-background="white" -->
-# What does it mean to **bear** my own **cross**?
+# Am I willing to offer **family**, **fortune**, and **freedom** on the altar? 
 
 >>>
 + To **love** God with all our **heart** / life / strength
 + means finding **stronger** bonds in the HS
   + than our **earthly** family ties
 + It means saying **"goodbye"** to all we have
-  + separating our **possessions** 
-  + from who we are as a **person** in Christ
+  + differentiating the **possessions** we own
+  + from the **person** we are in Christ
 + It means **remembering** every day
   + that through Christ we are **dead** to sin
-  + we no longer live for **ourselves**
++ we no longer live for **ourselves**
   + but for **Christ** who gives us new life
++ so we are **freed** from sin
+  + and **slaves** to righteousness *(Rom6)*
 
 ---
 ## outline 3
@@ -527,18 +542,18 @@ may be manifested in our mortal flesh
 + "Now You want me to **yield** to God my 
   + **family**, **possessions**, and own **life**?
   + That's all I have **left**!"
-+ If you're **asking** that, you're **not** alone!
++ If you're **asking** that, you're **not** alone:
 + Jesus, after asking the **rich young man**
   + to **sell** all he had 
   + and **give** to the poor,
-+ Jesus himself attested:
++ Jesus **summed** it up like this:
 
 ---
-It is easier for a **camel** <br>
+"It is easier for a **camel** <br>
 to go through the eye of a **needle**
 
 than for a **rich** person <br>
-to enter the **kingdom of God**.
+to enter the **kingdom of God**."
 
 [26](# "ref")
 And they were exceedingly **astonished**, <br>
@@ -582,7 +597,7 @@ unless it is **granted** him by the **Father**.”
 + Jesus said this after another **call** to commitment
 + and many of His **followers** turned away:
   + "It's **too hard** to do,
-  + Who is able even to **listen** to it?"
+  + Who is able to **hear** + do it?"
 + so many **left** Jesus at that point, that Jesus
   + even asked the twelve **disciples**:
 
@@ -615,7 +630,7 @@ that you are the **Holy One** of God.”
   + than **salt** can become **unsalty**:
 
 ---
-“**Salt** is good, but if salt has lost its **taste**,<br>
+**Salt** is good, but if salt has lost its **taste**,<br>
 how shall its **saltiness** be restored?<br>
 
 [35](# "ref")
@@ -625,9 +640,6 @@ or for the manure pile. It is **thrown away**.
 [Luke 14:34-35 (ESV)](# "ref")
 
 >>>
-+ This isn't saying that if you **claim** to be a Chr
-  + but aren't living a **holy** life
-  + that you'll be **thrown out** of heaven!
 + How does **salt** become **unsalty**?
   + by very **definition**, sodium chloride is salty
 + Jesus is saying to those He's **chosen**:
@@ -635,7 +647,7 @@ or for the manure pile. It is **thrown away**.
 + you **have** died to sin already,
   + you **have** been forgiven, and
   + you **have** the light of Christ in you --
-  + **Remember** this!
+  + **Remember** this! **Live** like it! 
 + Parallel passage in **Mt** 
   + adds the analogy of **light**:
 
@@ -659,8 +671,12 @@ and give **glory** to your Father who is in heaven.
   + but it is the **gospel** within us
 + that gives us the **aroma** of Christ
   + and the **light** of God's glory
-+ **Who** then can be **saved**?
-+ next ch15: **"sinners"** came to Jesus
++ Is there **anyone** then who can be **saved**?
+  + **yes**! by God's **grace**
++ **next** time in Luke 15: of those
+  + who were labelled the **"sinners"**,
++ who came seeking **forgiveness** + healing,
+  + Jesus said:
 
 ---
 Therefore I tell you, 
@@ -672,11 +688,22 @@ But he who is **forgiven** little, **loves** little.
 [Luke 7:47 (ESV)](# "ref")
 
 >>>
-+ lost **sheep**, lost **coin**, lost **son**:
++ ch15: lost **sheep**, lost **coin**, lost **son**:
 + these are the ones who can be **saved**:
   + those who know they **need** saving
++ they are **precious** in God's sight
 
 ---
+<!-- .slide: data-background="white" -->
+# What can I do when I don't feel **salty** or **bright**?
+
+>>>
++ exude fragrance of Christ
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+
+>>>
 So we do not **lose heart**. 
 
 Though our **outer self** is wasting away, <br>
@@ -684,7 +711,6 @@ our **inner self** is being **renewed** day by day.
 
 [2 Corinthians 4:16-18 (ESV) (p.1/2)](# "ref")
 
----
 [17](# "ref")
 For this light **momentary** affliction <br>
 is preparing for us an eternal **weight of glory** <br>
@@ -699,17 +725,6 @@ but the things that are unseen are **eternal**.
 
 [2 Corinthians 4:16-18 (ESV) (p.2/2)](# "ref")
 
----
-<!-- .slide: data-background="white" -->
-# What can I do when I don't feel **salty** or **bright**?
-
->>>
-+ exude fragrance of Christ
-
----
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
-
->>>
 + unpopular to be a prophet in times of national distress: Jeremiah to exile
 
 + Lk9:57-62 put hand to plow and look back
