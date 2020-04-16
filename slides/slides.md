@@ -6,6 +6,14 @@
 <!-- .slide: data-background="white" -->
 # How do I **follow** Christ in times of **crisis**?
 
+>>>
++ anxious for **loved** ones
+  + fearful for the **economy** + our finances
+  + frustrated can't do the **activities** we want
++ in these **tough** times,
+  + why does it even **matter**
+  + whether we **follow** Christ or not? 
+
 ---
 <!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
 ## [Luke:](# "ref") the **Kingdom** of God
