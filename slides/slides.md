@@ -172,10 +172,12 @@ He who has ears to hear, let him hear.”
 + we're **outside** in public, and:
 
 ---
+<!-- .slide: <%= bg("Ludy-Christ_curses_Pharisees.jpg") %> -->
 Now **great crowds** accompanied him, <br>
 and he **turned** and said to them
 
 [Luke 14:25 (ESV)](# "ref")
+["Christ Curses the Pharisees", <br> Etching by F.A. Ludy after J.F. Overbeck, 1843. <br> Wellcome Collection, CC-BY 4.0](https://wellcomecollection.org/works/yrgj46d3 "caption")
 
 >>>
 + **Most** of the world does not care
@@ -186,11 +188,13 @@ and he **turned** and said to them
   + **Palm Sunday**, when crowds shouted:
 
 ---
+<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> -->
 **Hosanna**! Blessed is he who **comes** <br>
 in the name of the Lord, <br>
 even the **King** of Israel!
 
 [John 12:13 (ESV)](# "ref")
+[Leon, Mexico. Levi Hernández](https://unsplash.com/photos/2rjmDDQrXUI "caption")
 
 >>>
 + And **yet**, it was many of 
@@ -198,9 +202,11 @@ even the **King** of Israel!
 + just a few **days** later, shouted:
 
 ---
+<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 **Away** with him, away with him, **crucify** him!
 
 [John 19:15 (ESV)](# "ref")
+[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
 + ... as we remember last wk on **Good Fri**
@@ -215,12 +221,14 @@ even the **King** of Israel!
 + And Jesus said to them:
 
 ---
+<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> -->
 Truly, truly, I say to you, <br>
 you are **seeking me**, <br>
 not because you saw **signs**, <br>
 but because you ate your **fill** of the loaves.
 
 [John 6:26 (ESV)](# "ref")
+[Ales Krivec](https://unsplash.com/photos/QnNqGoCnBg0 "caption")
 
 >>>
 + What they **sought** wasn't even
@@ -239,11 +247,13 @@ but because you ate your **fill** of the loaves.
   + **earthly** commitments:
 
 ---
+<!-- .slide: <%= bg("unsplash-qRMoJcbZSkE-church_spire.jpg") %> -->
 For which of you, desiring to build a **tower**,<br>
 does not first **sit** down and **count** the **cost**,<br>
 whether he has enough to **complete** it?
 
 [Luke 14:28 (ESV)](# "ref")
+[Olga Serjantu](https://unsplash.com/photos/qRMoJcbZSkE "caption")
 
 >>>
 + Building a **tower** is for
@@ -272,6 +282,7 @@ whether he has enough to **complete** it?
 + there are always people **watching** us:
 
 ---
+<!-- .slide: <%= bg("unsplash-8OrT8pPU6Zc-castle_ruins.jpg") %> -->
 Otherwise, when he has laid a **foundation**<br>
 and is not able to finish,
 
@@ -282,6 +293,7 @@ saying,<br>
 and was not able to **finish**.’
 
 [Luke 14:29-30 (ESV)](# "ref")
+[Andrew Ouellet](https://unsplash.com/photos/8OrT8pPU6Zc "caption")
 
 >>>
 + not that we **fear** others' disdain, but
@@ -308,6 +320,7 @@ and was not able to **finish**.’
 + The 2nd analogy is going into **war**:
 
 ---
+<!-- .slide: <%= bg("unsplash-1-29wyvvLJA-maps.jpg") %> -->
 Or what **king**, going out<br>
 to encounter another king in **war**,
 
@@ -318,6 +331,7 @@ to meet him who comes against him <br>
 with **twenty** thousand?
 
 [Luke 14:31 (ESV)](# "ref")
+[Andrew Neel](https://unsplash.com/photos/1-29wyvvLJA "caption")
 
 >>>
 + Before **rushing** into battle,
@@ -377,6 +391,7 @@ ______
 + Sounds pretty **scary**!
 
 ---
+<!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
 If anyone **comes** to me and does not <br>
 **hate** his own father and mother and wife <br>
 and children and brothers and sisters,
@@ -386,6 +401,7 @@ yes, and even his **own life**,
 he cannot be my **disciple**.
 
 [Luke 14:26 (ESV)](# "ref")
+[Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
 + **hate** is a pretty strong word!
@@ -400,6 +416,7 @@ he cannot be my **disciple**.
   + **comparison** of strength of love:
 
 ---
+<!-- .slide: <%= bg("unsplash-b8rkmfxZjdU-kids.jpg") %> -->
 Whoever loves **father** or **mother** <br>
 **more** than me is not worthy of me, 
 
@@ -407,6 +424,7 @@ and whoever loves **son** or **daughter** <br>
 **more** than me is not worthy of me.
 
 [Matthew 10:37 (ESV)](# "ref")
+[Great Smoky Mountains, USA. Jordan Whitt](https://unsplash.com/photos/b8rkmfxZjdU "caption")
 
 >>>
 + Our usual appl: specific **times**/places
@@ -434,6 +452,7 @@ and whoever loves **son** or **daughter** <br>
   + the **same** God commands in 1Jn:
 
 ---
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 For this is the **message** <br>
 that you have heard from the beginning, <br>
 that we should **love one another**
@@ -445,6 +464,7 @@ and you know that no murderer <br>
 has **eternal life** abiding in him
 
 [1 John 3:11,15 (ESV)](# "ref")
+[Mayur Gala](https://unsplash.com/photos/2PODhmrvLik "caption")
 
 >>>
 + (And yes, it is the same word for **hate**)
@@ -460,6 +480,7 @@ has **eternal life** abiding in him
 + e.g., 1Tim:
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 If a **widow** has **children** or grandchildren, <br>
 let them first learn <br>
 to show **godliness** to their **own household** <br>
@@ -467,6 +488,7 @@ and to make some **return** to their parents, <br>
 for this is **pleasing** in the sight of God.
 
 [1 Timothy 5:4 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + This is also to allow the **church**
@@ -481,6 +503,7 @@ for this is **pleasing** in the sight of God.
   + who treat **money** as ther master:
 
 ---
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> -->
 No servant can serve **two masters**,
 
 for either he will **hate** the one <br>
@@ -491,6 +514,7 @@ and **despise** the other.
 You cannot serve **God** and **money**.
 
 [Luke 16:13 (ESV)](# "ref")
+[Steve Johnson](https://unsplash.com/photos/0sPFjdcRhko "caption")
 
 >>>
 + **Family** obligations and
@@ -505,11 +529,13 @@ You cannot serve **God** and **money**.
   + v33 addresses our **possessions**:
 
 ---
+<!-- .slide: <%= bg("Volterra-Prophet_Elijah.jpg") %> -->
 So therefore, any one of you <br>
 who does not **renounce** all that he **has** <br>
 cannot be my **disciple**.
 
 [Luke 14:33 (ESV)](# "ref")
+[Daniele da Volterra, "The Prophet Elijah", 1550](https://commons.wikimedia.org/wiki/File:Daniele_da_Volterra_001.jpg "caption")
 
 >>>
 + "all he has": not just money but **poss.**:
@@ -527,6 +553,7 @@ cannot be my **disciple**.
 + Luke 12:
 
 ---
+<!-- .slide: <%= bg("unsplash-1Z2niiBPg5A-mist_moor.jpg") %> -->
 **Fear not**, little flock, <br>
 for it is your Father's good **pleasure** <br>
 to give you the **kingdom**. 
@@ -538,6 +565,7 @@ Provide yourselves with ... <br>
 a **treasure** in the heavens that does not **fail**
 
 [Luke 12:32-33 (ESV)](# "ref")
+[Paul Morris](https://unsplash.com/photos/1Z2niiBPg5A "caption")
 
 >>>
 + not that **owning** things is **evil**
@@ -551,10 +579,12 @@ a **treasure** in the heavens that does not **fail**
 + is all part of denying **ourselves**: v26:
 
 ---
+<!-- .slide: <%= bg("unsplash-3U7HcqkIbb4-kneel_pray_pew.jpg") %> -->
 If anyone comes to me and does not **hate** ... <br>
 even his **own life**, he cannot be my disciple.
 
 [Luke 14:26 (ESV)](# "ref")
+[R. Dr. Manoel Miranda, Brazil. Samuel Martins](https://unsplash.com/photos/3U7HcqkIbb4 "caption")
 
 >>>
 + **hate** own life != feel "my life **sucks**":
@@ -565,10 +595,12 @@ even his **own life**, he cannot be my disciple.
 + in v27, Jesus uses image of **cross**:
 
 ---
+<!-- .slide: <%= bg("Valdes_Leal-Christ_on_the_way_to_Calvary.jpg") %> -->
 Whoever does not bear his own **cross**<br>
 and come **after** me cannot be my **disciple**.
 
 [Luke 14:27 (ESV)](# "ref")
+[Christ on the way to Calvary. Valdés Leal, Juan de. c.1661](https://www.museodelprado.es/en/the-collection/art-work/christ-on-the-way-to-calvary/c035162a-872d-433d-81ac-d449199eba82 "caption")
 
 >>>
 + Cross an instrument of **torture** + death
@@ -593,6 +625,7 @@ and come **after** me cannot be my **disciple**.
   + as 2Cor says: we're
 
 ---
+<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
 Always **carrying** in the body the **death** of Jesus, <br>
 so that the **life** of Jesus <br>
 may also be **manifested** in our bodies. 
@@ -605,6 +638,7 @@ so that the **life** of Jesus also <br>
 may be manifested in our mortal flesh
 
 [2 Corinthians 4:10-11 (ESV)](# "ref")
+[Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
 + Never **tire** of the msg of the **cross**:
@@ -661,6 +695,7 @@ may be manifested in our mortal flesh
 + **summed** it up like this:
 
 ---
+<!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
 "It is easier for a **camel** <br>
 to go through the eye of a **needle**
 
@@ -672,6 +707,7 @@ And they were exceedingly **astonished**, <br>
 and said to him, “Then **who** can be saved?” 
 
 [Mark 10:25-26 (ESV)](# "ref")
+[Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
 
 >>>
 + Not only for **rich** people,
@@ -681,6 +717,7 @@ and said to him, “Then **who** can be saved?”
 + And this was Jesus' **reply**:
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 Jesus looked at them and said, 
 
 “With **man** it is impossible, <br>
@@ -689,6 +726,7 @@ but not with **God**.
 For all things are **possible** with God.”
 
 [Mark 10:27 (ESV)](# "ref")
+[Thailand. Dominik QN](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 >>>
 + We should **not** interpret this to mean
@@ -701,11 +739,13 @@ For all things are **possible** with God.”
 + This is why Jesus says in **John 6**:
 
 ---
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 And he said, “This is why I told you <br>
 that no one can **come** to me <br>
 unless it is **granted** him by the **Father**.”
 
 [John 6:65 (ESV)](# "ref")
+[Alex Woods](https://unsplash.com/photos/pZVi92S-ZMs "caption")
 
 >>>
 + He said after another **call** to commit
@@ -716,6 +756,7 @@ unless it is **granted** him by the **Father**.”
   + He even asked the **twelve**:
 
 ---
+<!-- .slide: <%= bg("unsplash-78A265wPiO4-sunlit_valley.jpg") %> -->
 “Do **you** want to go away as well?” 
 
 [68](# "ref")
@@ -729,6 +770,7 @@ and have come to **know**, <br>
 that you are the **Holy One** of God.” 
 
 [John 6:67-69 (ESV)](# "ref")
+[Ciucaș Peak, Romania. David Marcu](https://unsplash.com/photos/78A265wPiO4 "caption")
 
 >>>
 + They were **chosen** by Christ
@@ -744,6 +786,7 @@ that you are the **Holy One** of God.”
   + than **salt** can become **unsalty**:
 
 ---
+<!-- .slide: <%= bg("unsplash-qMVgO95H3pM-pink_crystal.jpg") %> -->
 **Salt** is good, but if salt has lost its **taste**,<br>
 how shall its **saltiness** be restored?<br>
 
@@ -752,6 +795,7 @@ It is of no **use** either for the soil<br>
 or for the manure pile. It is **thrown away**.
 
 [Luke 14:34-35 (ESV)](# "ref")
+[Michael Walter](https://unsplash.com/photos/qMVgO95H3pM "caption")
 
 >>>
 + How does **salt** become **unsalty**?
@@ -767,6 +811,7 @@ or for the manure pile. It is **thrown away**.
   + adds the analogy of **light**:
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 You are the **light** of the world. <br>
 A city set on a hill cannot be **hidden**. 
 
@@ -775,6 +820,7 @@ so that they may see your **good works** <br>
 and give **glory** to your Father who is in heaven.
 
 [Matthew 5:14,16 (ESV)](# "ref")
+[Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
 + Not about **striving** to do 
@@ -796,6 +842,7 @@ and give **glory** to your Father who is in heaven.
 + Jesus said:
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 Therefore I tell you, 
 her sins, which are **many**, are forgiven -- 
 for she loved **much**.
@@ -803,6 +850,7 @@ for she loved **much**.
 But he who is **forgiven** little, **loves** little.
 
 [Luke 7:47 (ESV)](# "ref")
+[Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
 
 >>>
 + ch15: lost **sheep**, lost **coin**, lost **son**:
