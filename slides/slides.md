@@ -5,7 +5,7 @@
 >>>
 + This is where we are:
   + 1 **month** since BC declared a
-  + public health **emergency** bc COVID19.
+  + public health **emerg** COVID19.
 + Coronavirus is **destructive** + spreading
 + We're all **isolating** in our homes
   + only going out for **essential** trips
@@ -25,16 +25,19 @@
 
 >>>
 + anxious for **loved** ones
-  + fearful for the **economy** + our finances
-  + frustrated can't do the **activities** we want
+  + fearful for **economy**, finances
+  + frust. can't do **activities** we want
 + in the midst of a **pandemic**,
   + does it even **matter**
   + whether we **follow** Christ or not?
-+ as we dive into today's passage in Luke 14
-  + we'll see that **especially** during a crisis,
++ Dive into today's passage in **Lk14**
+  + we'll see that **esp** during crisis,
 + we need to turn our attention to
   + behold the **Lamb** of God
   + who takes away the **sin** of the world
+
+______
+**[BRIEF PRAYER]**
 
 ---
 <!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
@@ -282,23 +285,23 @@ and was not able to **finish**.’
 >>>
 + not that we **fear** others' disdain, but
   + our **success** / failure is **public**:
-+ if I make a **bold** decision for Christ
-  + but fail to **submit** my values, thinking,
-  + manner of **speech**, and decisions to Him,
-+ then my **failure** will be just as well-known
++ if I make a **bold** decision for Christ, but
+  + fail to **submit** values, thinking,
+  + manner of **speech**, decisions to Him,
++ then my **failure** will be as well-known
   + as my **proclamation** was
-+ e.g., where I **grew up**,
++ e.g., where I **grew up**, there was
   + a house whose **owner**
   + wanted to renovate it into a **castle**:
 + but only did a **tower**, part of a wall
   + stayed that way for **years**
-+ everyone **knew** about it: the **failed** castle
++ everyone **knew** it: the **failed** castle
 + We, working on our own **holiness**,
   + may be **afraid** to fail publicly, so
   + build tower first in **secret**, then
-+ once my life + heart are where I **want** them,
++ once life + heart where I **want** them,
   + **reveal** the completed tower: tada! 
-+ But only **tiny** towers can be built in secret
++ But only **tiny** towers can built secret
   + and the **light** of the **glory** 
   + of Christ cannot be **hidden**.
 + The 2nd analogy is going into **war**:
@@ -322,7 +325,7 @@ with **twenty** thousand?
 + Following Christ means
   + waging war against **sin + self**:
   + not sth we just naturally **fall** into
-+ We must **consciously**, intentionally, daily
++ We must **conscious**, intent, daily
   + **die** to sin + **deny** selfishness
 + It's a war we **cannot** win on our own
   + we must make **peace** with God
@@ -358,7 +361,7 @@ ______
   + what are the **prerequisites**?
 + 3x Jesus says, "if you **don't** do this,
   + you **cannot** be My disciple":
-+ 3 ways describe the 1 **commitment** needed:
++ describe the 1 **commitment** needed:
   + hate earthly **family**
   + forsake all we **possess**
   + bear our own **cross**
@@ -377,8 +380,9 @@ he cannot be my **disciple**.
 
 >>>
 + **hate** is a pretty strong word!
-  + deep **emotion** of opposition, to despise
-+ ☻ For those of us at **home**, we might say:
+  + deep **emotion** of opposition,
+  + to **despise**, abhor
++ ☻ Those of us at **home** might say:
   + "I've been stuck in **isolation** 
   + w/my family for a **month**:
 + "**Hate** my family? Check and done!" ☻
@@ -400,10 +404,10 @@ and whoever loves **son** or **daughter** <br>
   + when God takes **centre stage**
   + in our thoughts + esp **emotions**
   + (e.g., praise + **worship**)
-+ in those times we don't **think** about family,
++ then we don't **think** about family,
   + **swept away** by emotion for God.
-+ But not **feasible** to live like that all the time
-  + so it doesn't **impact** / change daily life.
++ But not **feasible** to live that all time
+  + so no **impact** / change daily life.
 + Sometimes, what I **love** more than God
   + is the **people** in my family:
 + e.g., **mornings** w/fam are crazy:
@@ -412,10 +416,10 @@ and whoever loves **son** or **daughter** <br>
   + **listening** to God.
 + Sometimes, what I **love** more than God
   + is the **ideal** of family:
-+ everybody **happy** + content, communicate well,
++ everybody **happy** + content, **comm.** well,
   + **tidy** home, productive + **admired**.
-+ So when it **doesn't** look like that,
-  + I can't **stand** it: frustrated, bitter, angry.
++ So when it **doesn't** look like that, I
+  + can't **stand** it: frustr, bitter, angry.
 + How do I love God **and** love my family? 
 + Bible is **cohesive** whole:
   + the **same** God commands in 1Jn:
@@ -435,14 +439,14 @@ has **eternal life** abiding in him
 
 >>>
 + (And yes, it is the same word for **hate**)
-+ So we must **hate** parents / children / sibs,
++ So **hate** parents / children / sibs,
   + but **love** our brother?
 + Earthly family **comes** from God, and
   + in Christ we have **new** family of God:
 + with eternal **ties** that are even stronger
   + than the ties of our **earthly** families,
   + which "merely" last but a **lifetime**
-+ We very much have **responsibilities**, each
++ We very much have **responsib**, each
   + to those in our own **household**.
 + e.g., 1Tim:
 
@@ -457,15 +461,15 @@ for this is **pleasing** in the sight of God.
 
 >>>
 + This is also to allow the **church**
-  + to focus on **caring** for those
-  + who don't have **anyone** caring for them.
-+ But the **commitment** of discipleship to Christ
+  + to focus on **caring** for those who
+  + don't have **anyone** caring for them.
++ But **commitment** of discip to Christ
   + means our singular **intent**
   + is to **follow** Him:
-+ so we subordinate every **relationship** under
++ so subord every **relationship** under
   + **obedience** to His commands
-+ Later in **Luke**, Jesus addresses those who
-  + treat **money** as ther master:
++ Later in **Luke**, Jesus addresses those
+  + who treat **money** as ther master:
 
 ---
 No servant can serve **two masters**,
@@ -482,11 +486,12 @@ You cannot serve **God** and **money**.
 >>>
 + **Family** obligations and
   + the **desire** for a peaceful home, can
-  + be just as powerfully **alluring** a master.
++ be just as powerf **alluring** a master.
 + Don't seek Jesus as a **means** of 
   + seeking **blessing** for our families;
-+ Rather, our **goal** is to love God + follow Him:
-  + we serve **family** as a way of serving God.
++ Rather, our **goal** is 
+  + to **love** God + follow Him:
+  + serve **family** as way of serving God.
 + And **money** is also an insiduous master!
   + v33 addresses our **possessions**:
 
@@ -498,16 +503,16 @@ cannot be my **disciple**.
 [Luke 14:33 (ESV)](# "ref")
 
 >>>
-+ "all he has": not just money but **possessions**,
-  + that which is **under** me, in my control
-+ "renounce": **order** / structure **apart** from,
++ "all he has": not just money but **poss.**:
+  + **under** me, in my control
++ "renounce": **order** / struct **apart** from,
   + say **goodbye**
   + cf "submit": order **underneath**.
 + Money is **necessary** for life, but
   + does not **constitute** our life
 + **Clinging** to possessions reflects **fear**
-  + that we don't have **enough**,
-  + that can't **protect** selves / loved ones.
+  + that we don't have **enough**, that we
+  + can't **protect** selves / loved ones.
 + Remember our Heavenly **Father** 
   + provides for us **abundantly**! 
 + Luke 12:
@@ -531,10 +536,10 @@ a **treasure** in the heavens that does not **fail**
   + from the **possessions**
 + **Use** the material blessings God gave us
   + to show **mercy** on those in need --
-+ it's the best long-term **investment** strategy!
-+ Saying "goodbye" to **poss.** + earthly **family**
-  + is all part of denying **ourselves**:
-  + v26:
++ best long-term **investment** strategy!
++ Saying "goodbye" to **possessions**
+  + and earthly **family**
++ is all part of denying **ourselves**: v26:
 
 ---
 If anyone comes to me and does not **hate** ... <br>
@@ -545,10 +550,10 @@ even his **own life**, he cannot be my disciple.
 >>>
 + **hate** own life != feel "my life **sucks**":
   + i.e., **unhappy** w/hand dealt to me.
-+ And != **despising** the gift of life God gave us
++ != **despising** gift of life God gave us
   + != **deliberately** getting COVID:
   + reckless + **harms** others!
-+ in v27, Jesus uses the image of the **cross**:
++ in v27, Jesus uses image of **cross**:
 
 ---
 Whoever does not bear his own **cross**<br>
@@ -564,15 +569,15 @@ and come **after** me cannot be my **disciple**.
   + but a daily **reminder** of death:
 + I've **died** to sin + self, so
   + sin shall have no **mastery** over me!
-+ I've **given up** my freedom to sin, and become
-  + a **slave** to righteousness *(Rom6)*, but
-+ that means I'm freed **from** sin --
++ I've **given up** my freedom to sin, and
+  + am a **slave** to righteousness *(Rom6)*,
++ but that means I'm freed **from** sin --
   + I don't **desire** to live in it any longer --
-+ and gained true **freedom** by the Son of God
-  + in the knowledge of His **truth**! 
++ &amp; gained true **freedom** by Son of God
+  + in the knowledge of His **truth**.
 + And Jesus is not **behind** us,
   + driving us as a **slave master**;
-+ He's gone **before** in bearing **suffering** of sin
++ He's gone **before** bearing **suff** of sin
   + already **triumphed** over sin + grave.
 + So in this world we're always
   + both **dead** and **alive**
@@ -594,7 +599,8 @@ may be manifested in our mortal flesh
 
 >>>
 + Never **tire** of the msg of the **cross**:
-+ It reminds us that in daily **struggle** w/sin,
++ It **reminds** us that in our 
+  + daily **struggle** w/sin,
 + Christ has already **died** for us
   + to make us **dead** to sin
 + And He is **risen**, risen indeed, that we
@@ -607,12 +613,12 @@ may be manifested in our mortal flesh
 >>>
 + To **love** God w/all **heart** / life / strength
 + means finding **stronger** bonds in the HS
-  + than our **earthly** family ties
-+ It means saying **"goodbye"** to all we have
-  + differentiating the **possessions** we own
-  + from the **person** we are in Christ
-+ It means **remembering** every day
-  + that through Christ we are **dead** to sin
+  + than our **earthly** family ties;
++ saying **"goodbye"** to all we have
+  + differentiating **possessions** we own
+  + from the **person** we are in Christ;
++ It means **remembering** every day, that
+  + through Christ we are **dead** to sin
 + we no longer live for **ourselves**
   + but for **Christ** who gives us new life
 + so we are **freed** from sin
@@ -624,7 +630,8 @@ may be manifested in our mortal flesh
 >>>
 + at this point, some **listeners** may say,
 + "You ask **too much**! I've already
-  + **volunteered** more than fair share for God,
+  + **volunteered** more than 
+  + my **fair** share for God,
   + **sacrificed** for His Name.
 + "I have very real, immediate **stresses**
   + I need to **deal** with right now.
@@ -633,8 +640,7 @@ may be manifested in our mortal flesh
   + That's all I have **left**!"
 + If you're **asking** that, you're **not** alone:
 + Jesus, after asking the **rich young man**
-  + to **sell** all he had 
-  + and **give** to the poor,
+  + to **sell** all had + **give** to poor,
 + **summed** it up like this:
 
 ---
@@ -653,7 +659,7 @@ and said to him, “Then **who** can be saved?”
 >>>
 + Not only for **rich** people,
   + the **demand** of discip is so **high**
-+ "If that's what it **takes** to be discip,
++ "If that's what **takes** to be discip,
   + then **who** could possibly **qualify**?"
 + And this was Jesus' **reply**:
 
@@ -670,7 +676,7 @@ For all things are **possible** with God.”
 >>>
 + We should **not** interpret this to mean
   + God will do anything we **want**!
-+ The **ability** to **follow** Him as His discip,
++ The **ability** to **follow** Him as discip,
   + the **repentant**, changed heart,
   + the living **faith** to obey Him in 
   + every **aspect** of life --
@@ -685,12 +691,12 @@ unless it is **granted** him by the **Father**.”
 [John 6:65 (ESV)](# "ref")
 
 >>>
-+ He said this after another **call** to commit
++ He said after another **call** to commit
 + Many of His **followers** turned away:
   + "It's **too hard** to do,
   + Who is able to **hear** + do it?"
-+ So many **left** Jesus at that point, that Jesus
-  + even asked the **twelve**:
++ So many **left** Jesus at that point, that
+  + He even asked the **twelve**:
 
 ---
 “Do **you** want to go away as well?” 
@@ -732,8 +738,8 @@ or for the manure pile. It is **thrown away**.
 
 >>>
 + How does **salt** become **unsalty**?
-  + by very **definition**, sodium chloride is salty
-  + it's a **counterfactual**, impossibility.
+  + by very **defn**, sodium chloride salty
+  + it's a **counterfact.**, impossibility.
 + Jesus is saying to those He's **chosen**:
   + this is **who you are**: you **are** salty
 + you **have** died to sin already,
@@ -754,9 +760,10 @@ and give **glory** to your Father who is in heaven.
 [Matthew 5:14,16 (ESV)](# "ref")
 
 >>>
-+ Not about **striving** to do more, more good works
-  + but remembering **who I am** in Christ.
-+ The **requirements** of discipleship are costly:
++ Not about **striving** to do 
+  + **more**, more good works,
+  + but remem. **who I am** in Christ.
++ The **require.** of discip. are costly:
   + it demands we yield **everything**.
 + But we have been **chosen**, redeemed:
 + We may not always **feel** salty or bright
@@ -765,10 +772,11 @@ and give **glory** to your Father who is in heaven.
   + and the **light** of God's glory.
 + Is there **anyone** then who can be **saved**?
   + **yes**! by God's **grace**
-+ We'll read about some of these **next** time in Lk15:
-  + of those labelled as the **"sinners"**,
-+ who came seeking **forgiveness** + healing,
-  + Jesus said:
++ We'll read about some of these 
+  + **next** time in Lk15:
++ Of those labelled as the **"sinners"**, who
+  + came seeking **forgive.** + healing,
++ Jesus said:
 
 ---
 Therefore I tell you, 
@@ -790,14 +798,14 @@ But he who is **forgiven** little, **loves** little.
 # What can I do when I don't feel **salty** or **bright**?
 
 >>>
-+ When we don't **feel** particularly Christian;
++ When we don't **feel** partic. Chr.;
 + When the **habits** and **places** we 
   + usually use to **define** ourselves
   + are suddenly **stripped** away:
 + **Remember** who we are in Christ!
-  + Jesus **loves** you and has **saved** you;
-+ You've **died** to sin + self,
-  + and have the **life** of risen Saviour in you!
+  + Jesus **loves** you + has **saved** you;
++ You've **died** to sin + self, and have
+  + **life** of risen Saviour in you!
 + Even in the midst of a **pandemic**,
   + you **are** salt, you **are** light --
 + now **live** like it:
