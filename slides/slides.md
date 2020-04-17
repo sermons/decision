@@ -23,7 +23,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **follow** Christ in times of **crisis**?
+# How do I <br> **follow** Christ in <br> times of **crisis**?
 
 >>>
 + anxious for **loved** ones
@@ -147,14 +147,14 @@ He who has ears to hear, let him hear.”
 [Luke 14:25-35 (ESV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> class="outline" id="outline" -->
 1. Examine Our **Hearts**
-  + A. Building [(v28-30)](# "ref")
-  + B. Battle [(v31-32)](# "ref")
+  + *Building* [(v28-30)](# "ref")
+  + *Battle* [(v31-32)](# "ref")
 2. Count the **Cost**
-  + A. Family [(v26)](# "ref")
-  + B. Fortune [(v33)](# "ref")
-  + C. Freedom [(v27)](# "ref")
+  + *Family* [(v26)](# "ref")
+  + *Fortune* [(v33)](# "ref")
+  + *Freedom* [(v27)](# "ref")
 3. Remember Our **Identity** [(v34-35)](# "ref")
 
 >>>
@@ -189,7 +189,8 @@ and he **turned** and said to them
 
 ---
 <!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> -->
-**Hosanna**! Blessed is he who **comes** <br>
+**Hosanna**! <br>
+Blessed is he who **comes** <br>
 in the name of the Lord, <br>
 even the **King** of Israel!
 
@@ -203,7 +204,8 @@ even the **King** of Israel!
 
 ---
 <!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
-**Away** with him, away with him, **crucify** him!
+**Away** with him, away with him, <br>
+**crucify** him!
 
 [John 19:15 (ESV)](# "ref")
 [Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
@@ -368,14 +370,14 @@ ______
 **[PAUSE + CUT]**
 
 ---
-<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> class="outline" -->
 1. Examine Our Hearts
-  + A. Building [(v28-30)](# "ref")
-  + B. Battle [(v31-32)](# "ref")
+  + Building [(v28-30)](# "ref")
+  + Battle [(v31-32)](# "ref")
 2. **Count the Cost**
-  + A. Family [(v26)](# "ref")
-  + B. Fortune [(v33)](# "ref")
-  + C. Freedom [(v27)](# "ref")
+  + *Family* [(v26)](# "ref")
+  + *Fortune* [(v33)](# "ref")
+  + *Freedom* [(v27)](# "ref")
 3. Remember Our Identity [(v34-35)](# "ref")
 
 >>>
@@ -651,7 +653,7 @@ may be manifested in our mortal flesh
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I willing to offer **family**, **fortune**, and **freedom** on the altar? 
+# Am I willing to offer **family**, **fortune**, <br> and **freedom** <br> on the altar? 
 
 >>>
 + To **love** God w/all **heart** / life / strength
@@ -668,14 +670,14 @@ may be manifested in our mortal flesh
   + and **slaves** to righteousness
 
 ---
-<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> class="outline" -->
 1. Examine Our Hearts
-  + A. Building [(v28-30)](# "ref")
-  + B. Battle [(v31-32)](# "ref")
+  + Building [(v28-30)](# "ref")
+  + Battle [(v31-32)](# "ref")
 2. Count the Cost
-  + A. Family [(v26)](# "ref")
-  + B. Fortune [(v33)](# "ref")
-  + C. Freedom [(v27)](# "ref")
+  + Family [(v26)](# "ref")
+  + Fortune [(v33)](# "ref")
+  + Freedom [(v27)](# "ref")
 3. **Remember Our Identity** [(v34-35)](# "ref")
 
 >>>
@@ -860,7 +862,7 @@ But he who is **forgiven** little, **loves** little.
 
 ---
 <!-- .slide: data-background="white" -->
-# What can I do when I don't feel **salty** or **bright**?
+# What can I do <br> when I don't feel **salty** or **bright**?
 
 >>>
 + When we don't **feel** partic. Chr.;
