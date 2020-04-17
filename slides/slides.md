@@ -16,8 +16,9 @@
   + **friends**, or **church** family,
   + and definitely not our **seniors** --
   + for their own **protection**!
-+ It's **stressful**, and it's hard to **think** about
-  + what it means to:
++ It's **stressful**, and in times like these,
+  + it's hard to **think** about
++ what it **means** to:
 
 ---
 <!-- .slide: data-background="white" -->
@@ -30,7 +31,7 @@
 + in the midst of a **pandemic**,
   + does it even **matter**
   + whether we **follow** Christ or not?
-+ Dive into today's passage in **Lk14**
++ As dive into today's passage in **Lk14**
   + we'll see that **esp** during crisis,
 + we need to turn our attention to
   + behold the **Lamb** of God
@@ -156,16 +157,15 @@ He who has ears to hear, let him hear.”
 3. Remember Our **Identity** [(v34-35)](# "ref")
 
 >>>
-+ 3 things to **take away** from this passage:
-+ (1) 2 **analogies** Jesus uses to prompt us to
++ 3x to **take away** from passage:
++ (1) 2 **analogies** to prompt us to
   + check our **expectations**
   + as we draw **near** to Him:
   + **why** are we seeking Him?
-+ (2) 3x Jesus says "this is a **requirement**"
++ (2) 3x Jesus says "this is a **req.**"
   + you **must** do this to be My **disciple**
 + (3) Jesus says to those He's **chosen**:
-  + this is **who you are**
-  + **live** like it!
+  + this is **who** you are: **live** like it!
 + Starting in **v25**, we're no longer in
   + the **dinner** at Pharisee's house,
 + we're **outside** in public, and:
@@ -790,7 +790,7 @@ But he who is **forgiven** little, **loves** little.
 >>>
 + ch15: lost **sheep**, lost **coin**, lost **son**:
 + These are the ones who can be **saved**:
-  + the ones who know they **need** saving;
+  + the ones who know **need** saving
 + and they are **precious** in God's sight!
 
 ---
