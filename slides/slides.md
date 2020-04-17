@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="title" -->
 # Decision Point
 ## Luke 14:25-35
+[Hạ Long Bay, Vietnam. Vincent Guth](https://unsplash.com/photos/3sR_0NhWMEI "caption")
 
 >>>
 + This is where we are:
@@ -146,7 +147,7 @@ He who has ears to hear, let him hear.”
 [Luke 14:25-35 (ESV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="outline" -->
 1. Examine Our **Hearts**
   + A. Building [(v28-30)](# "ref")
   + B. Battle [(v31-32)](# "ref")
@@ -353,7 +354,15 @@ ______
 **[PAUSE + CUT]**
 
 ---
-## outline 2
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
+1. Examine Our Hearts
+  + A. Building [(v28-30)](# "ref")
+  + B. Battle [(v31-32)](# "ref")
+2. **Count the Cost**
+  + A. Family [(v26)](# "ref")
+  + B. Fortune [(v33)](# "ref")
+  + C. Freedom [(v27)](# "ref")
+3. Remember Our Identity [(v34-35)](# "ref")
 
 >>>
 + if we **desire** to be Christ's **disciples**,
@@ -625,7 +634,15 @@ may be manifested in our mortal flesh
   + and **slaves** to righteousness
 
 ---
-## outline 3
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
+1. Examine Our Hearts
+  + A. Building [(v28-30)](# "ref")
+  + B. Battle [(v31-32)](# "ref")
+2. Count the Cost
+  + A. Family [(v26)](# "ref")
+  + B. Fortune [(v33)](# "ref")
+  + C. Freedom [(v27)](# "ref")
+3. **Remember Our Identity** [(v34-35)](# "ref")
 
 >>>
 + at this point, some **listeners** may say,
@@ -812,7 +829,7 @@ But he who is **forgiven** little, **loves** little.
   + exude **fragrance** of Christ
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> class="empty" -->
 
 >>>
 So we do not **lose heart**. 
