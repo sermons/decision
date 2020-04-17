@@ -2,6 +2,23 @@
 # Decision Point
 ## Luke 14:25-35
 
+>>>
++ This is where we are:
+  + 1 **month** since BC declared a
+  + public health **emergency** bc COVID19.
++ Coronavirus is **destructive** + spreading
++ We're all **isolating** in our homes
+  + only going out for **essential** trips
+  + e.g. **groceries** or **doctor**.
++ We're **connecting** with people via
+  + **phone** and internet, but
++ we're not going **out** to visit
+  + **friends**, or **church** family,
+  + and definitely not our **seniors** --
+  + for their own **protection**!
++ It's **stressful**, and it's hard to **think** about
+  + what it means to:
+
 ---
 <!-- .slide: data-background="white" -->
 # How do I **follow** Christ in times of **crisis**?
@@ -10,13 +27,18 @@
 + anxious for **loved** ones
   + fearful for the **economy** + our finances
   + frustrated can't do the **activities** we want
-+ in these **tough** times,
-  + why does it even **matter**
-  + whether we **follow** Christ or not? 
++ in the midst of a **pandemic**,
+  + does it even **matter**
+  + whether we **follow** Christ or not?
++ as we dive into today's passage in Luke 14
+  + we'll see that **especially** during a crisis,
++ we need to turn our attention to
+  + behold the **Lamb** of God
+  + who takes away the **sin** of the world
 
 ---
 <!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
-## [Luke:](# "ref") the **Kingdom** of God
+## [Luke:](# "ref") The **Kingdom** of God
 + Jesus uses many **parables** to describe
   + What the kingdom of God is *like*, and
   + Who will *enter* it
@@ -31,8 +53,12 @@
 + how He **heals** + performs miracles,
   + teaching in **parables**, and
   + His **actions** leading to the cross
-+ Here the **mid-section** of Luke is
-  + marked by many **parables**
++ **Last** time, in ch14, the **kingdom** is
+  + a joyful **celebration**, that
+  + **we**, too often, reject.
++ **Today's** passage focuses on the
+  + **commitment** required to
+  + be Jesus' **disciples**.
 
 ******
 [25](# "ref")
@@ -118,12 +144,12 @@ He who has ears to hear, let him hear.”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 1. **Warning**
-  + A. *Building* [(v28-30)](# "ref")
-  + B. *Fighting* [(v31-32)](# "ref")
-2. **Requirements**
-  + A. Hate Own *Family* [(v26)](# "ref")
-  + B. Forsake All *Possessions* [(v33)](# "ref")
-  + C. Bear Own *Cross* [(v27)](# "ref")
+  + A. Building [(v28-30)](# "ref")
+  + B. Battle [(v31-32)](# "ref")
+2. Count the **Cost**:
+  + A. Family [(v26)](# "ref")
+  + B. Fortune [(v33)](# "ref")
+  + C. Freedom[(v27)](# "ref")
 3. **Identity** as Salt [(v34-35)](# "ref")
 
 ---
@@ -133,9 +159,12 @@ and he **turned** and said to them
 [Luke 14:25 (ESV)](# "ref")
 
 >>>
-+ **Most** of the world does not care to **draw near** to Christ
-+ But in times of **need**, **many** will seek Him
-+ 2 weeks ago, we remembered **Palm Sunday**, when crowds shouted:
++ **Most** of the world does not care
+  + to **draw near** to Christ.
++ But in times of **need**, 
+  + **many** will seek Him.
++ 2 weeks ago, we remembered
+  + **Palm Sunday**, when crowds shouted:
 
 ---
 **Hosanna**! Blessed is he who **comes** <br>
@@ -145,8 +174,9 @@ even the **King** of Israel!
 [John 12:13 (ESV)](# "ref")
 
 >>>
-+ And yet it was many of the **same** people who,
-  just a few **days** later, shouted
++ And **yet**, it was many of 
++ the **same** people who,
++ just a few **days** later, shouted:
 
 ---
 **Away** with him, away with him, **crucify** him!
@@ -154,15 +184,16 @@ even the **King** of Israel!
 [John 19:15 (ESV)](# "ref")
 
 >>>
-+ As we remembered last week on **Good Friday**
++ ... as we remember last wk on **Good Fri**
 + Their **joy** turned to **anger** because
-  Jesus did not fulfill their **expectations**
-+ They wanted **healing** and rescue
-+ But didn't **acknowledge** what they really 
-  needed **rescue** from
-+ After the feeding of the **5,000**, the crowds
-  **found** Jesus across the sea and **sought** him out.
-  + And Jesus said to them:
+  + Jesus did not fulfill **expectations**.
++ They did want **healing** + rescue,
+  + but didn't **ack** what they really
+  + needed **rescue** from.
++ After feeding of **5,000**,
+  + the crowds **found** Jesus
+  + across the sea + **sought** him out.
++ And Jesus said to them:
 
 ---
 Truly, truly, I say to you, <br>
@@ -173,17 +204,20 @@ but because you ate your **fill** of the loaves.
 [John 6:26 (ESV)](# "ref")
 
 >>>
-+ What they **sought** wasn't even the spectacle of the **miracle**
-  + For a **sign** always points to something
-+ and they weren't **interested** in following that
-  to its logical conclusion
-+ They had an immediate **need**, and wanted it **met**
-+ This is how **we** -- **I**, too often -- pray:
-+ "Lord, I am in **need**, under **stress** --
++ What they **sought** wasn't even
+  + the spectacle of the **miracle**:
++ bc a sign always **points** to sth,
+  + and they weren't **interested**
+  + in the **implications** of the sign.
++ They had an immediate **need**,
+  + and wanted it **met**
++ This is how **we** -- **I** -- often pray:
+  + "Lord, I'm in **need**, under **stress** --
   + **fix** the problem, **satisfy** my need!"
 + It's **ironic**, bc we who are so **cavalier**
-  about seeking God's **blessings**
-+ are very **shrewd** when it comes to earthly **commitments**:
+  + about seeking God's **blessings**
++ are very **shrewd** when it comes to
+  + **earthly** commitments:
 
 ---
 For which of you, desiring to build a **tower**,<br>
@@ -193,21 +227,30 @@ whether he has enough to **complete** it?
 [Luke 14:28 (ESV)](# "ref")
 
 >>>
-+ Building a tower is for **protection** or **safekeeping**
-  + It's a **large** + **expensive** project
-+ Not sth you just **jump** into: **sit** down first
-+ To **count**: as w/pebbles, to **reckon**, determine, vote
-  + How much is it going to **cost** -- to consume, devour?
-+ e.g., friend asks all his friends for help **moving**: 
-  + sure, group of young **guys**: how **hard** could it be? 
-  + get there, see I'm the **only** one who came!
-  + learned: **ask** first before committing!
-+ if I know how to **plan** before committing to **projects**
-  + why should I think committing to **Christ** is any different?
-+ Not just how strongly you **begin**, but
-  + how strongly you **finish** 
-+ And no matter how **private** we may like our lives to be,
-  + there are always people **watching** us:
++ Building a **tower** is for
+  + **protection** or **safekeeping**:
++ It's a **large** + **expensive** project,
+  + not sth you just **jump** into:
+  + **sit** down first, plan
++ To **count**: as w/pebbles,
+  + to **reckon**, determine, vote
++ How much is it going to **cost** -- 
+  + to **consume**, devour?
++ e.g., back in **single** days:
+  + friend asks all friends to help **move**:
++ ☻ sure, group of young **guys**:
+  + how **hard** could it be?
++ day of: I'm the **only** one who showed!
+  + learned: **ask** first before commit!
++ if I know how to **plan**
+  + before committing to **projects**,
++ why should I think committing to **Christ**
+  + is any **different**?
++ Not just how strongly I **begin**, but
+  + how strongly I **finish** 
++ And no matter how **private**
+  + we may **like** our lives to be,
++ there are always people **watching** us:
 
 ---
 Otherwise, when he has laid a **foundation**<br>
@@ -222,23 +265,27 @@ and was not able to **finish**.’
 [Luke 14:29-30 (ESV)](# "ref")
 
 >>>
-+ not that **fear** others' disdain, but
-  + our **success** / failure is **public**
++ not that we **fear** others' disdain, but
+  + our **success** / failure is **public**:
 + if I make a **bold** decision for Christ
-  + but fail to **submit** my values, thinking, manner of speech, and decisions to Him
-  + then my **failure** is just as well-known as my **proclamation** was
-+ Where I **grew up**, there was a house whose **owner**
-  + wanted to renovate it into a **castle**
-  + but only made it as far as a **tower** and part of a wall
-  + it stayed that way for **years**
-  + everyone **knew** about it: the failed castle
+  + but fail to **submit** my values, thinking,
+  + manner of **speech**, and decisions to Him,
++ then my **failure** will be just as well-known
+  + as my **proclamation** was
++ e.g., where I **grew up**,
+  + a house whose **owner**
+  + wanted to renovate it into a **castle**:
++ but only did a **tower**, part of a wall
+  + stayed that way for **years**
++ everyone **knew** about it: the **failed** castle
 + We, working on our own **holiness**,
   + may be **afraid** to fail publicly, so
-  + build first in **secret**, then after
-+ my life + heart are where I **want** them to be,
-  + **reveal** the tower after it's complete: tada! 
+  + build tower first in **secret**, then
++ once my life + heart are where I **want** them,
+  + **reveal** the completed tower: tada! 
 + But only **tiny** towers can be built in secret
-  + and the **light** of Christ cannot be hidden
+  + and the **light** of the **glory** 
+  + of Christ cannot be **hidden**.
 + The 2nd analogy is going into **war**:
 
 ---
@@ -254,32 +301,35 @@ with **twenty** thousand?
 [Luke 14:31 (ESV)](# "ref")
 
 >>>
-+ Before **rushing** into battle, sit down and **plan**
++ Before **rushing** into battle,
+  + sit down and **plan**:
   + what will it take to **win**?
-+ Following Christ means waging war against **sin + self**
++ Following Christ means
+  + waging war against **sin + self**:
   + not sth we just naturally **fall** into
 + We must **consciously**, intentionally, daily
   + **die** to sin + **deny** selfishness
 + It's a war we **cannot** win on our own
   + we must make **peace** with God
-+ acknowledge that we need Christ's **death**
++ ack we need Christ's **death**
   + to pay the **penalty** for our sin
-  + hence give us the **victory** over it
-+ **trust** Him enough to **obey** Him
-  + call Him as our **Lord**
+  + hence win the **victory** over it.
++ Must **trust** Him enough to **obey** Him
+  + call Him as our **Lord**.
 + During this time of **crisis**,
   + it is good that we **draw near** to God
-+ But as we come near to **seek** Him:
++ But it's not **enough** to seek Him! 
+  + As we come near to **seek** the Lord:
 
 ---
 <!-- .slide: data-background="white" -->
 # Do I seek Jesus <br> for His **blessings** <br> or His **Lordship**? 
 
 >>>
-+ When I am in desperate **need**:
++ In times of desperate **need**:
   + what am I **expecting**
   + as I **approach** Jesus?
-+ do I **believe** He is **able** to rescue, and
++ do I **believe** He is **able** to rescue, +
   + am I **willing** to be His **disciple**?
 ______
 **[PAUSE + CUT]**
@@ -293,7 +343,7 @@ ______
   + what are the **prerequisites**?
 + 3x Jesus says, "if you **don't** do this,
   + you **cannot** be My disciple":
-+ 3 ways of describing the 1 **commitment** that is needed:
++ 3 ways describe the 1 **commitment** needed:
   + hate earthly **family**
   + forsake all we **possess**
   + bear our own **cross**
@@ -313,10 +363,12 @@ he cannot be my **disciple**.
 >>>
 + **hate** is a pretty strong word!
   + deep **emotion** of opposition, to despise
-+ For those of us at **home**, we might say:
-  + "I've been stuck in **isolation** w/my family for a **month**;
-  + **hate** my family? Check and done!"
-+ Parallel passage in Mt10 highlights the
++ ☻ For those of us at **home**, we might say:
+  + "I've been stuck in **isolation** 
+  + w/my family for a **month**:
++ "**Hate** my family? Check and done!" ☻
+  + (turn to your neighbour!)
++ **Parallel** passage in Mt10 highlights the
   + **comparison** of strength of love:
 
 ---
@@ -329,26 +381,29 @@ and whoever loves **son** or **daughter** <br>
 [Matthew 10:37 (ESV)](# "ref")
 
 >>>
-+ Our usual appl is to have specific **times**/places
-  + when God takes **centre stage** in our 
-  + thoughts + especially **emotions** (e.g., praise+worship)
++ Our usual appl: specific **times**/places
+  + when God takes **centre stage**
+  + in our thoughts + esp **emotions**
+  + (e.g., praise + **worship**)
 + in those times we don't **think** about family,
-  + are **swept away** by emotion for God
-+ but not **feasible** to live like that all the time
-  + so it doesn't **impact** / change our daily life
+  + **swept away** by emotion for God.
++ But not **feasible** to live like that all the time
+  + so it doesn't **impact** / change daily life.
 + Sometimes, what I **love** more than God
   + is the **people** in my family:
-+ e.g., **mornings** are crazy,
-  + family has **urgent** and visible needs
-  + I **fail** to spend **undistracted** time listening to God
++ e.g., **mornings** w/fam are crazy:
+  + family has **urgent** + visible needs, so
++ I fail to spend **undistracted** time
+  + **listening** to God.
 + Sometimes, what I **love** more than God
   + is the **ideal** of family:
-+ **happy** + content, tidy home, productive + admired
-  + when it **doesn't** look like that,
-  + I can't **stand** it: frustrated, bitter, angry
++ everybody **happy** + content, communicate well,
+  + **tidy** home, productive + **admired**.
++ So when it **doesn't** look like that,
+  + I can't **stand** it: frustrated, bitter, angry.
 + How do I love God **and** love my family? 
 + Bible is **cohesive** whole:
-  + It's the **same** God who commands us in 1Jn3:
+  + the **same** God commands in 1Jn:
 
 ---
 For this is the **message** <br>
@@ -365,15 +420,16 @@ has **eternal life** abiding in him
 
 >>>
 + (And yes, it is the same word for **hate**)
-+ So we must **hate** father / mother / bro / sis
++ So we must **hate** parents / children / sibs,
   + but **love** our brother?
 + Earthly family **comes** from God, and
-  + in Christ have a **new** family of God:
+  + in Christ we have **new** family of God:
 + with eternal **ties** that are even stronger
   + than the ties of our **earthly** families,
   + which "merely" last but a **lifetime**
 + We very much have **responsibilities**, each
-  + to those in our own **household**:
+  + to those in our own **household**.
++ e.g., 1Tim:
 
 ---
 If a **widow** has **children** or grandchildren, <br>
@@ -385,13 +441,13 @@ for this is **pleasing** in the sight of God.
 [1 Timothy 5:4 (ESV)](# "ref")
 
 >>>
-+ this is also so as not to **burden** the church
-  + so it can focus on **caring** for those
-  + who have **none** able to care for them
++ This is also to allow the **church**
+  + to focus on **caring** for those
+  + who don't have **anyone** caring for them.
 + But the **commitment** of discipleship to Christ
   + means our singular **intent**
-  + is to **follow** Him
-+ to subordinate every **relationship** under
+  + is to **follow** Him:
++ so we subordinate every **relationship** under
   + **obedience** to His commands
 + Later in **Luke**, Jesus addresses those who
   + treat **money** as ther master:
@@ -409,12 +465,13 @@ You cannot serve **God** and **money**.
 [Luke 16:13 (ESV)](# "ref")
 
 >>>
-+ **Family** obligations + the desire for a **peaceful** home
-  + can be just as powerfully **alluring** a master
++ **Family** obligations and
+  + the **desire** for a peaceful home, can
+  + be just as powerfully **alluring** a master.
 + Don't seek Jesus as a **means** of 
-  + seeking **blessing** for our families
-+ Rather, our **goal** is to love God + follow Him, and
-  + we serve **family** as a way of serving God
+  + seeking **blessing** for our families;
++ Rather, our **goal** is to love God + follow Him:
+  + we serve **family** as a way of serving God.
 + And **money** is also an insiduous master!
   + v33 addresses our **possessions**:
 
@@ -426,18 +483,19 @@ cannot be my **disciple**.
 [Luke 14:33 (ESV)](# "ref")
 
 >>>
-+ **all he has**: not just **money** but possessions,
++ "all he has": not just money but **possessions**,
   + that which is **under** me, in my control
-+ renounce: **order**/structure **apart** from
++ "renounce": **order** / structure **apart** from,
   + say **goodbye**
-  + cf "submit": order **underneath**
-+ money is **necessary** for life, but
+  + cf "submit": order **underneath**.
++ Money is **necessary** for life, but
   + does not **constitute** our life
-+ **Craving** for money/possessions reflects **fear**
-  + that we don't have **enough**
-  + that we can't **protect** selves / loved ones
++ **Clinging** to possessions reflects **fear**
+  + that we don't have **enough**,
+  + that can't **protect** selves / loved ones.
 + Remember our Heavenly **Father** 
-  + provides for us **abundantly**:
+  + provides for us **abundantly**! 
++ Luke 12:
 
 ---
 **Fear not**, little flock, <br>
@@ -454,12 +512,14 @@ a **treasure** in the heavens that does not **fail**
 
 >>>
 + not that **owning** things is **evil**
-  + but **separate** the person from the possessions
+  + but **separate** the person
+  + from the **possessions**
 + **Use** the material blessings God gave us
   + to show **mercy** on those in need --
 + it's the best long-term **investment** strategy!
-+ Saying "goodbye" to **possessions** + earthly **family**
-  + is all a part of renouncing **ourselves**:
++ Saying "goodbye" to **poss.** + earthly **family**
+  + is all part of denying **ourselves**:
+  + v26:
 
 ---
 If anyone comes to me and does not **hate** ... <br>
@@ -468,11 +528,11 @@ even his **own life**, he cannot be my disciple.
 [Luke 14:26 (ESV)](# "ref")
 
 >>>
-+ **hating** own life != feeling "my life **sucks**":
-  + i.e., **unhappy** with hand that's been dealt to me
-+ and != **despising** the gift of life God gave us
-  + or **deliberately** getting COVID:
-  + that **harms** others!
++ **hate** own life != feel "my life **sucks**":
+  + i.e., **unhappy** w/hand dealt to me.
++ And != **despising** the gift of life God gave us
+  + != **deliberately** getting COVID:
+  + reckless + **harms** others!
 + in v27, Jesus uses the image of the **cross**:
 
 ---
@@ -483,19 +543,25 @@ and come **after** me cannot be my **disciple**.
 
 >>>
 + Cross an instrument of **torture** + death
-  + to **bear** own cross: 
-  + to be a **dead man** walking
+  + to **bear** own cross means
+  + to be a **dead man** walking.
 + It's not just about enduring **suffering**
   + but a daily **reminder** of death:
 + I've **died** to sin + self, so
-  + sin shall have no **mastery** over me
-  + I don't **desire** to live in it any longer!
-+ And Jesus is not **behind** us
-  + driving us as a **slave master**:
-+ He's gone **before** in bearing the **suffering** of sin
-  + already **triumphed** over sin + grave
-+ So, as 2Cor says, in this world we are always
-  + both **dead** and **alive**:
+  + sin shall have no **mastery** over me!
++ I've **given up** my freedom to sin, and become
+  + a **slave** to righteousness *(Rom6)*, but
++ that means I'm freed **from** sin --
+  + I don't **desire** to live in it any longer --
++ and gained true **freedom** by the Son of God
+  + in the knowledge of His **truth**! 
++ And Jesus is not **behind** us,
+  + driving us as a **slave master**;
++ He's gone **before** in bearing **suffering** of sin
+  + already **triumphed** over sin + grave.
++ So in this world we're always
+  + both **dead** and **alive**
+  + as 2Cor says: we're
 
 ---
 Always **carrying** in the body the **death** of Jesus, <br>
@@ -512,19 +578,19 @@ may be manifested in our mortal flesh
 [2 Corinthians 4:10-11 (ESV)](# "ref")
 
 >>>
-+ Never **tire** of the msg of the **cross**
-+ reminds us that in our **struggle** w/sin
++ Never **tire** of the msg of the **cross**:
++ It reminds us that in daily **struggle** w/sin,
 + Christ has already **died** for us
   + to make us **dead** to sin
-+ And He is **risen**, risen indeed
-  + that we may manifest **life** that overcomes
++ And He is **risen**, risen indeed, that we
+  + may manifest **life** that overcomes! 
 
 ---
 <!-- .slide: data-background="white" -->
 # Am I willing to offer **family**, **fortune**, and **freedom** on the altar? 
 
 >>>
-+ To **love** God with all our **heart** / life / strength
++ To **love** God w/all **heart** / life / strength
 + means finding **stronger** bonds in the HS
   + than our **earthly** family ties
 + It means saying **"goodbye"** to all we have
@@ -535,7 +601,7 @@ may be manifested in our mortal flesh
 + we no longer live for **ourselves**
   + but for **Christ** who gives us new life
 + so we are **freed** from sin
-  + and **slaves** to righteousness *(Rom6)*
+  + and **slaves** to righteousness
 
 ---
 ## outline 3
@@ -543,7 +609,7 @@ may be manifested in our mortal flesh
 >>>
 + at this point, some **listeners** may say,
 + "You ask **too much**! I've already
-  + **volunteered** more than my fair share for God,
+  + **volunteered** more than fair share for God,
   + **sacrificed** for His Name.
 + "I have very real, immediate **stresses**
   + I need to **deal** with right now.
@@ -554,7 +620,7 @@ may be manifested in our mortal flesh
 + Jesus, after asking the **rich young man**
   + to **sell** all he had 
   + and **give** to the poor,
-+ Jesus **summed** it up like this:
++ **summed** it up like this:
 
 ---
 "It is easier for a **camel** <br>
