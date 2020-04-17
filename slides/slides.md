@@ -250,10 +250,10 @@ whether he has enough to **complete** it?
 + It's a **large** + **expensive** project,
   + not sth you just **jump** into:
   + **sit** down first, plan
-+ To **count**: as w/pebbles,
++ To **count** means: as w/pebbles,
   + to **reckon**, determine, vote
-+ How much is it going to **cost** -- 
-  + to **consume**, devour?
++ How much is it going to **cost**
+  + (word means to **consume**, devour)
 + e.g., back in **single** days:
   + friend asks all friends to help **move**:
 + ☻ sure, group of young **guys**:
