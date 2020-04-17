@@ -143,14 +143,29 @@ He who has ears to hear, let him hear.”
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
-1. **Warning**
+1. Examine Our **Hearts**
   + A. Building [(v28-30)](# "ref")
   + B. Battle [(v31-32)](# "ref")
-2. Count the **Cost**:
+2. Count the **Cost**
   + A. Family [(v26)](# "ref")
   + B. Fortune [(v33)](# "ref")
-  + C. Freedom[(v27)](# "ref")
-3. **Identity** as Salt [(v34-35)](# "ref")
+  + C. Freedom [(v27)](# "ref")
+3. Remember Our **Identity** [(v34-35)](# "ref")
+
+>>>
++ 3 things to **take away** from this passage:
++ (1) 2 **analogies** Jesus uses to prompt us to
+  + check our **expectations**
+  + as we draw **near** to Him:
+  + **why** are we seeking Him?
++ (2) 3x Jesus says "this is a **requirement**"
+  + you **must** do this to be My **disciple**
++ (3) Jesus says to those He's **chosen**:
+  + this is **who you are**
+  + **live** like it!
++ Starting in **v25**, we're no longer in
+  + the **dinner** at Pharisee's house,
++ we're **outside** in public, and:
 
 ---
 Now **great crowds** accompanied him, <br>
@@ -637,10 +652,10 @@ and said to him, “Then **who** can be saved?”
 
 >>>
 + Not only for **rich** people,
-  + the **demand** of discipleship is so **high**
-+ "If that's what it **takes** to be Your disciple,
+  + the **demand** of discip is so **high**
++ "If that's what it **takes** to be discip,
   + then **who** could possibly **qualify**?"
-+ And what was Jesus' **reply**?
++ And this was Jesus' **reply**:
 
 ---
 Jesus looked at them and said, 
@@ -653,12 +668,14 @@ For all things are **possible** with God.”
 [Mark 10:27 (ESV)](# "ref")
 
 >>>
-+ This does **not** mean God will do anything we **want**
-+ but the **ability** to **follow** Him as His disciple,
++ We should **not** interpret this to mean
+  + God will do anything we **want**!
++ The **ability** to **follow** Him as His discip,
   + the **repentant**, changed heart,
   + the living **faith** to obey Him in 
   + every **aspect** of life --
-+ all these are **gifts** given as **God** enables
++ these are **gifts** given as **God** enables.
++ This is why Jesus says in **John 6**:
 
 ---
 And he said, “This is why I told you <br>
@@ -668,12 +685,12 @@ unless it is **granted** him by the **Father**.”
 [John 6:65 (ESV)](# "ref")
 
 >>>
-+ Jesus said this after another **call** to commitment
-+ and many of His **followers** turned away:
++ He said this after another **call** to commit
++ Many of His **followers** turned away:
   + "It's **too hard** to do,
   + Who is able to **hear** + do it?"
-+ so many **left** Jesus at that point, that Jesus
-  + even asked the twelve **disciples**:
++ So many **left** Jesus at that point, that Jesus
+  + even asked the **twelve**:
 
 ---
 “Do **you** want to go away as well?” 
@@ -692,14 +709,14 @@ that you are the **Holy One** of God.”
 
 >>>
 + They were **chosen** by Christ
-  + to receive the **faith**
-  + and **experiential** knowledge
+  + to receive the **faith**, and
+  + the **experiential** knowledge
 + that Jesus is **Saviour** sent by God:
   + there's **nowhere** else to go, and
   + nowhere else they'd **rather** be
-+ This is our **identity** in Christ!
++ This is our **identity** in Christ! We are
   + the **church** -- εκκλησία -- 
-  + those **chosen** by God's grace
+  + those **chosen** by God's grace.
 + We can no more **return** to a life of sin
   + than **salt** can become **unsalty**:
 
@@ -716,6 +733,7 @@ or for the manure pile. It is **thrown away**.
 >>>
 + How does **salt** become **unsalty**?
   + by very **definition**, sodium chloride is salty
+  + it's a **counterfactual**, impossibility.
 + Jesus is saying to those He's **chosen**:
   + this is **who you are**: you **are** salty
 + you **have** died to sin already,
@@ -737,18 +755,18 @@ and give **glory** to your Father who is in heaven.
 
 >>>
 + Not about **striving** to do more, more good works
-+ But remembering **who I am** in Christ
+  + but remembering **who I am** in Christ.
 + The **requirements** of discipleship are costly:
-  + it demands we yield **everything**
-+ But we have been **chosen**, redeemed
+  + it demands we yield **everything**.
++ But we have been **chosen**, redeemed:
 + We may not always **feel** salty or bright
   + but it is the **gospel** within us
 + that gives us the **aroma** of Christ
-  + and the **light** of God's glory
+  + and the **light** of God's glory.
 + Is there **anyone** then who can be **saved**?
   + **yes**! by God's **grace**
-+ **next** time in Luke 15: of those
-  + who were labelled the **"sinners"**,
++ We'll read about some of these **next** time in Lk15:
+  + of those labelled as the **"sinners"**,
 + who came seeking **forgiveness** + healing,
   + Jesus said:
 
@@ -763,16 +781,27 @@ But he who is **forgiven** little, **loves** little.
 
 >>>
 + ch15: lost **sheep**, lost **coin**, lost **son**:
-+ these are the ones who can be **saved**:
-  + those who know they **need** saving
-+ they are **precious** in God's sight
++ These are the ones who can be **saved**:
+  + the ones who know they **need** saving;
++ and they are **precious** in God's sight!
 
 ---
 <!-- .slide: data-background="white" -->
 # What can I do when I don't feel **salty** or **bright**?
 
 >>>
-+ exude fragrance of Christ
++ When we don't **feel** particularly Christian;
++ When the **habits** and **places** we 
+  + usually use to **define** ourselves
+  + are suddenly **stripped** away:
++ **Remember** who we are in Christ!
+  + Jesus **loves** you and has **saved** you;
++ You've **died** to sin + self,
+  + and have the **life** of risen Saviour in you!
++ Even in the midst of a **pandemic**,
+  + you **are** salt, you **are** light --
++ now **live** like it:
+  + exude **fragrance** of Christ
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
