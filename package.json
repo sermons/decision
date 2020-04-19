@@ -8,7 +8,7 @@
     "luke",
     "discipleship"
   ],
-  "version": "1.7.7",
+  "version": "1.8.0",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "decision.seanho.com",
@@ -96,7 +96,6 @@
   },
   "scripts": {
     "postinstall": "grunt install",
-    "test": "grunt test",
-    "dist": "grunt dist"
+    "test": "grunt test"
   }
 }
